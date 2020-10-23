@@ -3,28 +3,30 @@
 
 <head>
   <meta charset="utf-8">
-  <link rel="stylesheet" href="{{ url_for('static', filename='style.css')}}">
-  <li>
-    
-  </li>
-  <ul>
-    <li>
-      <form action="main" method="post">
-        <p>login:</p>
-        <input type="text" name="nm">
-        <input type="submit" value="submit">
-      </form>
-    </li>
-    <li>
-      <form action="logout" method="post">
-        <input type="submit" value="logout">
-      </form>
-    </li>
-  </ul>
+  <link rel="stylesheet" href="{{ url_for('static', filename='main.css')}}">
+  <div class="navbar-nav">
+    {% if session.user %}
+    <a class="nav-item nav-link" href="{{ url_for('signout') }}">Signout</a>
+    {% else %}
+    <a class="nav-item nav-link" href="{{ url_for('signin') }}">Signin</a>
+    <a class="nav-item nav-link" href="{{ url_for('signup') }}">Signup</a>
+    {% endif %}
+  </div>
+  <nav>
+    <ul>
+      <li><a class="current" href="/">Home</a></li>
+      <li><a href="python">algorithm</a></li>
+    </ul>
+  </nav>
 </head>
 
 <body>
   <div>
+    {% for key, value in session.items() %}
+    <h1>Key: {{key}}</h1>
+    <h2>Value: {{value}}</h2>
+    <a>df</a>
+    {% endfor %}
     {% block body %} {% endblock body %}
   </div>
 </body>

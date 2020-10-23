@@ -1,8 +1,12 @@
 {
-    "python.pythonPath": "env/bin/python3",
+    "python.pythonPath": "env/bin/python",
+    "python.linting.pylintPath": "env/bin/pylint",
     "editor.formatOnSave": true,
     "files.associations": {
         "chrono": "cpp"
     },
-    "python.linting.pylintPath": "env/bin/pylint"
+    "git.ignoreLimitWarning": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.banditEnabled": true
 }

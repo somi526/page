@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block body %}
+{% for k1, h2 in posts.items() %}
+<h1>{{k1}}</h1>
+
+{% for k2, h3 in h2.items() %}
+<h2>{{k2}}</h2>
+
+{% for k3, li in h3.items() %}
+<h3>{{k3}}</h3>
+{% for item in li %}
+<ul>
+  <li>
+    {{item["li"]}}
+  </li>
+</ul>
+{% for p in item["ps"] %}
+<p>
+  {{p|safe}}
+</p>
+{% endfor %}
+
+{% endfor %}
+{% endfor %}
+{% endfor %}
+{% endfor %}
+{% endblock body %}

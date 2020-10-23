@@ -6,7 +6,10 @@
         "title": "A+B",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1000\">A+B (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] input ",
+        "h3": "Add | Subtract",
+        "ul": "add"
     },
     {
         "id": "1001",
@@ -15,7 +18,10 @@
         "title": "A - B",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1001\">A - B (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Add | Subtract",
+        "ul": "Subtract"
     },
     {
         "id": "1271",
@@ -24,7 +30,10 @@
         "title": "엄청난 부자2",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1271\">엄청난 부자2 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Quotient | Remainder | Division",
+        "ul": "Remainder"
     },
     {
         "id": "1550",
@@ -33,7 +42,10 @@
         "title": "16 to 10",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1550\">16 to 10 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Bit | Operation",
+        "ul": "Bit"
     },
     {
         "id": "2338",
@@ -42,7 +54,10 @@
         "title": "긴자리 계산",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2338\">긴자리 계산 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Multiply | Variable",
+        "ul": "Variable"
     },
     {
         "id": "2475",
@@ -51,7 +66,10 @@
         "title": "검증수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2475\">검증수 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Exponent | Logarithm",
+        "ul": "Exponent"
     },
     {
         "id": "2557",
@@ -60,7 +78,10 @@
         "title": "Hello World",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2557\">Hello World (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[1] Print",
+        "h3": "Comment | Print",
+        "ul": "Print"
     },
     {
         "id": "2558",
@@ -69,7 +90,10 @@
         "title": "A+B - 2",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2558\">A+B - 2 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Add | Subtract",
+        "ul": "Add"
     },
     {
         "id": "2845",
@@ -78,7 +102,10 @@
         "title": "파티가 끝나고 난 뒤",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2845\">파티가 끝나고 난 뒤 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Multiply | Variable",
+        "ul": "Variable"
     },
     {
         "id": "2914",
@@ -87,7 +114,10 @@
         "title": "저작권",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2914\">저작권 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Multiply | Variable",
+        "ul": "Variable"
     },
     {
         "id": "3003",
@@ -96,7 +126,10 @@
         "title": "킹, 퀸, 룩",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/3003\">킹, 퀸, 룩 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Add | Subtract",
+        "ul": "Subtract"
     },
     {
         "id": "3046",
@@ -105,7 +138,10 @@
         "title": "R2",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/3046\">R2 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Multiply | Variable",
+        "ul": "Variable"
     },
     {
         "id": "5337",
@@ -114,7 +150,10 @@
         "title": "웰컴",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5337\">웰컴 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[1] Print",
+        "h3": "Escape | Multiline",
+        "ul": "Multiline "
     },
     {
         "id": "5338",
@@ -123,7 +162,10 @@
         "title": "마이크로소프트 로고",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5338\">마이크로소프트 로고 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[1] Print",
+        "h3": "Escape | Multiline",
+        "ul": "Multiline "
     },
     {
         "id": "5339",
@@ -132,7 +174,10 @@
         "title": "콜센터",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5339\">콜센터 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[1] Print",
+        "h3": "Escape | Multiline",
+        "ul": "Multiline "
     },
     {
         "id": "5522",
@@ -141,7 +186,10 @@
         "title": "카드 게임",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5522\">카드 게임 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Add | Subtract",
+        "ul": "Add"
     },
     {
         "id": "5554",
@@ -150,7 +198,10 @@
         "title": "심부름 가는 길",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5554\">심부름 가는 길 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Quotient | Remainder | Division",
+        "ul": "Remainder"
     },
     {
         "id": "6749",
@@ -167,7 +218,10 @@
         "title": "등록",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/7287\">등록 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[1] Print",
+        "h3": "Comment | Print",
+        "ul": "Print"
     },
     {
         "id": "8370",
@@ -184,7 +238,10 @@
         "title": "합",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/8393\">합 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Series",
+        "ul": "Series"
     },
     {
         "id": "8437",
@@ -201,7 +258,10 @@
         "title": "스타워즈 로고",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/9653\">스타워즈 로고 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[1] Print",
+        "h3": "Escape | Multiline",
+        "ul": "Multiline "
     },
     {
         "id": "9654",
@@ -210,7 +270,10 @@
         "title": "나부 함대 데이터",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/9654\">나부 함대 데이터 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[1] Print",
+        "h3": "Escape | Multiline",
+        "ul": "Multiline "
     },
     {
         "id": "10170",
@@ -219,7 +282,10 @@
         "title": "NFC West vs North",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10170\">NFC West vs North (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[1] Print",
+        "h3": "Escape | Multiline",
+        "ul": "Multiline "
     },
     {
         "id": "10171",
@@ -228,7 +294,10 @@
         "title": "고양이",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10171\">고양이 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[1] Print",
+        "h3": "Escape | Multiline",
+        "ul": "Multiline "
     },
     {
         "id": "10172",
@@ -237,7 +306,10 @@
         "title": "개",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10172\">개 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[1] Print",
+        "h3": "Escape | Multiline",
+        "ul": "Multiline "
     },
     {
         "id": "10430",
@@ -246,7 +318,10 @@
         "title": "나머지",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10430\">나머지 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Quotient | Remainder | Division",
+        "ul": "Remainder"
     },
     {
         "id": "10699",
@@ -255,7 +330,10 @@
         "title": "오늘 날짜",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10699\">오늘 날짜 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[1] Print",
+        "h3": "Comment | Print",
+        "ul": "Print"
     },
     {
         "id": "10718",
@@ -264,7 +342,10 @@
         "title": "We love kriii",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10718\">We love kriii (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[1] Print",
+        "h3": "Comment | Print",
+        "ul": "Print"
     },
     {
         "id": "10757",
@@ -281,7 +362,10 @@
         "title": "사칙연산",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10869\">사칙연산 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Quotient | Remainder | Division",
+        "ul": "Quotient"
     },
     {
         "id": "10926",
@@ -306,7 +390,10 @@
         "title": "한글2",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11283\">한글2 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "Operators | Unicode",
+        "ul": "Unicode"
     },
     {
         "id": "11382",
@@ -315,7 +402,10 @@
         "title": "꼬마 정민",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11382\">꼬마 정민 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Add | Subtract",
+        "ul": "Add"
     },
     {
         "id": "11654",
@@ -324,7 +414,10 @@
         "title": "아스키",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11654\">아스키 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "Operators | Unicode",
+        "ul": "Unicode"
     },
     {
         "id": "11942",
@@ -341,7 +434,10 @@
         "title": "큰 수 곱셈",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/13277\">큰 수 곱셈 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Multiply | Variable",
+        "ul": "Variable"
     },
     {
         "id": "14645",
@@ -350,7 +446,10 @@
         "title": "와이버스 부릉부릉",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/14645\">와이버스 부릉부릉 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[1] Print",
+        "h3": "Comment | Print",
+        "ul": "Print"
     },
     {
         "id": "14652",
@@ -359,7 +458,10 @@
         "title": "나는 행복합니다",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/14652\">나는 행복합니다 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Quotient | Remainder | Division",
+        "ul": "Remainder"
     },
     {
         "id": "14918",
@@ -376,7 +478,10 @@
         "title": "큰 수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/14928\">큰 수 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Quotient | Remainder | Division",
+        "ul": "Remainder"
     },
     {
         "id": "15439",
@@ -393,7 +498,10 @@
         "title": "SUPER SUPER",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15641\">SUPER SUPER (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "Binary | bisect | QSelect",
+        "ul": "Binary Search"
     },
     {
         "id": "15727",
@@ -402,7 +510,10 @@
         "title": "조별과제",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15727\">조별과제 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Quotient | Remainder | Division",
+        "ul": "Quotient"
     },
     {
         "id": "15733",
@@ -419,7 +530,10 @@
         "title": "A+B - 9",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15740\">A+B - 9 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Add | Subtract",
+        "ul": "Add"
     },
     {
         "id": "15802",
@@ -444,7 +558,10 @@
         "title": "수학은 체육",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15894\">수학은 체육 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Multiply | Variable",
+        "ul": "Variable"
     },
     {
         "id": "15962",
@@ -453,7 +570,10 @@
         "title": "새로운 시작",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15962\">새로운 시작 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[1] Print",
+        "h3": "Comment | Print",
+        "ul": "Print"
     },
     {
         "id": "15964",
@@ -462,7 +582,10 @@
         "title": "이상한 기호",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15964\">이상한 기호 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Multiply | Variable",
+        "ul": "Variable"
     },
     {
         "id": "16170",
@@ -471,7 +594,10 @@
         "title": "오늘의 날짜는?",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/16170\">오늘의 날짜는? (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[1] Print",
+        "h3": "Comment | Print",
+        "ul": "Print"
     },
     {
         "id": "16394",
@@ -480,7 +606,10 @@
         "title": "홍익대학교",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/16394\">홍익대학교 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Add | Subtract",
+        "ul": "Subtract"
     },
     {
         "id": "16430",
@@ -489,7 +618,10 @@
         "title": "제리와 톰",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/16430\">제리와 톰 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Add | Subtract",
+        "ul": "Subtract"
     },
     {
         "id": "17256",
@@ -498,7 +630,10 @@
         "title": "달달함이 넘쳐흘러",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/17256\">달달함이 넘쳐흘러 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Quotient | Remainder | Division",
+        "ul": "Quotient"
     },
     {
         "id": "17295",
@@ -515,7 +650,10 @@
         "title": "스타후르츠",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/17496\">스타후르츠 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Quotient | Remainder | Division",
+        "ul": "Quotient"
     },
     {
         "id": "18096",
@@ -532,7 +670,10 @@
         "title": "1998년생인 내가",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/18108\">1998년생인 내가 (1)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Add | Subtract",
+        "ul": "Subtract"
     },
     {
         "id": "18301",
@@ -557,7 +698,10 @@
         "title": "8진수 2진수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1212\">8진수 2진수 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Bit | Operation",
+        "ul": "Bit"
     },
     {
         "id": "1297",
@@ -566,7 +710,10 @@
         "title": "TV 크기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1297\">TV 크기 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Exponent | Logarithm",
+        "ul": "Exponent"
     },
     {
         "id": "1330",
@@ -575,7 +722,10 @@
         "title": "두 수 비교",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1330\">두 수 비교 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "if, else | elif",
+        "ul": "elif"
     },
     {
         "id": "1712",
@@ -584,7 +734,10 @@
         "title": "손익분기점",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1712\">손익분기점 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "if, else | elif",
+        "ul": "If, else"
     },
     {
         "id": "2420",
@@ -593,7 +746,10 @@
         "title": "사파리 월드",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2420\">사파리 월드 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "min, max | abs",
+        "ul": "abs"
     },
     {
         "id": "2480",
@@ -602,7 +758,10 @@
         "title": "주사위 세개",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2480\">주사위 세개 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "min, max | abs",
+        "ul": "min, max"
     },
     {
         "id": "2525",
@@ -611,7 +770,10 @@
         "title": "오븐 시계",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2525\">오븐 시계 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Quotient | Remainder | Division",
+        "ul": "Remainder"
     },
     {
         "id": "2530",
@@ -620,7 +782,10 @@
         "title": "인공지능 시계",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2530\">인공지능 시계 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Quotient | Remainder | Division",
+        "ul": "Remainder"
     },
     {
         "id": "2588",
@@ -629,7 +794,10 @@
         "title": "곱셈",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2588\">곱셈 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Quotient | Remainder | Division",
+        "ul": "Remainder"
     },
     {
         "id": "2752",
@@ -638,7 +806,10 @@
         "title": "세 수 정렬",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2752\">세 수 정렬 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "2753",
@@ -647,7 +818,10 @@
         "title": "윤년",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2753\">윤년 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "Logical",
+        "ul": "Logical"
     },
     {
         "id": "3004",
@@ -656,7 +830,10 @@
         "title": "체스판 조각",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/3004\">체스판 조각 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Quotient | Remainder | Division",
+        "ul": "Quotient"
     },
     {
         "id": "4299",
@@ -665,7 +842,10 @@
         "title": "AFC 윔블던",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/4299\">AFC 윔블던 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "Logical",
+        "ul": "Logical"
     },
     {
         "id": "5101",
@@ -682,7 +862,10 @@
         "title": "방학 숙제",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5532\">방학 숙제 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Quotient | Remainder | Division",
+        "ul": "Division"
     },
     {
         "id": "5543",
@@ -691,7 +874,10 @@
         "title": "상근날드",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5543\">상근날드 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "Index, Slice",
+        "ul": "Index, slice"
     },
     {
         "id": "5575",
@@ -700,7 +886,10 @@
         "title": "타임 카드",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5575\">타임 카드 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[7] Tricks",
+        "h3": "function | class",
+        "ul": "class"
     },
     {
         "id": "5596",
@@ -709,7 +898,10 @@
         "title": "시험 점수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5596\">시험 점수 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "min, max | abs",
+        "ul": "abs"
     },
     {
         "id": "5893",
@@ -718,31 +910,46 @@
         "title": "17배",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5893\">17배 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Bit | Operation",
+        "ul": "Bit"
     },
     {
         "id": "5928",
         "level": 2,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "Contest Timing",
+        "type": "BJE",
+        "link": "<a href=\"http://acmicpc.net/problem/5928\">Contest Timing (2)</a>",
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "if, else | elif",
+        "ul": "If, else"
     },
     {
         "id": "6764",
         "level": 2,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "Sounds Fishy!",
+        "type": "BJE",
+        "link": "<a href=\"http://acmicpc.net/problem/6764\">Sounds Fishy! (2)</a>",
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "if, else | elif",
+        "ul": "elif"
     },
     {
         "id": "6778",
         "level": 2,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "Which Alien?",
+        "type": "BJE",
+        "link": "<a href=\"http://acmicpc.net/problem/6778\">Which Alien? (2)</a>",
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "if, else | elif",
+        "ul": "If, else"
     },
     {
         "id": "8246",
@@ -791,7 +998,10 @@
         "title": "시험 성적",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/9498\">시험 성적 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "if, else | elif",
+        "ul": "if, else"
     },
     {
         "id": "9524",
@@ -808,7 +1018,10 @@
         "title": "평균 점수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10039\">평균 점수 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "min, max | abs",
+        "ul": "abs"
     },
     {
         "id": "10101",
@@ -817,7 +1030,10 @@
         "title": "삼각형 외우기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10101\">삼각형 외우기 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "if, else | elif",
+        "ul": "elif"
     },
     {
         "id": "10156",
@@ -826,7 +1042,10 @@
         "title": "과자",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10156\">과자 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "min, max | abs",
+        "ul": "abs"
     },
     {
         "id": "10162",
@@ -835,7 +1054,10 @@
         "title": "전자레인지",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10162\">전자레인지 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "if, else | elif",
+        "ul": "If, else"
     },
     {
         "id": "10179",
@@ -844,7 +1066,10 @@
         "title": "쿠폰",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10179\">쿠폰 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "format | comprehension",
+        "ul": "format"
     },
     {
         "id": "10707",
@@ -853,7 +1078,10 @@
         "title": "수도 요금",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10707\">수도 요금 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "min, max | abs",
+        "ul": "abs"
     },
     {
         "id": "10768",
@@ -862,7 +1090,10 @@
         "title": "특별한 날",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10768\">특별한 날 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "Logical",
+        "ul": "Logical"
     },
     {
         "id": "10797",
@@ -871,7 +1102,10 @@
         "title": "10부제",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10797\">10부제 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "lists | 2D",
+        "ul": "Lists"
     },
     {
         "id": "11282",
@@ -880,7 +1114,10 @@
         "title": "한글",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11282\">한글 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "Operators | Unicode",
+        "ul": "Unicode"
     },
     {
         "id": "11466",
@@ -894,9 +1131,13 @@
         "id": "11549",
         "level": 2,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "Identifying tea",
+        "type": "BJE",
+        "link": "<a href=\"http://acmicpc.net/problem/11549\">Identifying tea (2)</a>",
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "lists | 2D",
+        "ul": "Lists"
     },
     {
         "id": "11943",
@@ -905,7 +1146,10 @@
         "title": "파일 옮기기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11943\">파일 옮기기 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "min, max | abs",
+        "ul": "min, max"
     },
     {
         "id": "11948",
@@ -914,7 +1158,10 @@
         "title": "과목선택",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11948\">과목선택 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "min, max | abs",
+        "ul": "abs"
     },
     {
         "id": "13136",
@@ -923,7 +1170,10 @@
         "title": "Do Not Touch Anything",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/13136\">Do Not Touch Anything (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Quotient | Remainder | Division",
+        "ul": "Division"
     },
     {
         "id": "13597",
@@ -948,7 +1198,10 @@
         "title": "팀 나누기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/13866\">팀 나누기 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "13985",
@@ -957,7 +1210,10 @@
         "title": "Equality",
         "type": "BJE",
         "link": "<a href=\"http://acmicpc.net/problem/13985\">Equality (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Add | Subtract",
+        "ul": "Add"
     },
     {
         "id": "14038",
@@ -966,7 +1222,10 @@
         "title": "Tournament Selection",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/14038\">Tournament Selection (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "if, else | elif",
+        "ul": "If, else"
     },
     {
         "id": "14065",
@@ -991,7 +1250,10 @@
         "title": "정육각형과 삼각형",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/14264\">정육각형과 삼각형 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Geometry | Trigonometry",
+        "ul": "Geometry"
     },
     {
         "id": "14470",
@@ -1000,7 +1262,10 @@
         "title": "전자레인지",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/14470\">전자레인지 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "if, else | elif",
+        "ul": "If, else"
     },
     {
         "id": "14623",
@@ -1009,7 +1274,10 @@
         "title": "감정이입",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/14623\">감정이입 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Bit | Operation",
+        "ul": "Bit"
     },
     {
         "id": "14681",
@@ -1018,7 +1286,10 @@
         "title": "사분면 고르기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/14681\">사분면 고르기 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "Logical",
+        "ul": "Logical"
     },
     {
         "id": "14924",
@@ -1027,7 +1298,10 @@
         "title": "폰 노이만과 파리",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/14924\">폰 노이만과 파리 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Quotient | Remainder | Division",
+        "ul": "Quotient"
     },
     {
         "id": "14935",
@@ -1049,9 +1323,13 @@
         "id": "15048",
         "level": 2,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "Jogo de Boca",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/15048\">Jogo de Boca (2)</a>",
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Game | optimization | Others",
+        "ul": "game"
     },
     {
         "id": "15051",
@@ -1076,15 +1354,22 @@
         "title": "Every Second Count",
         "type": "BJE",
         "link": "<a href=\"http://acmicpc.net/problem/15080\">Every Second Count (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "if, else | elif",
+        "ul": "If, else"
     },
     {
         "id": "15128",
         "level": 2,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "Congruent Numbers",
+        "type": "BJE",
+        "link": "<a href=\"http://acmicpc.net/problem/15128\">Congruent Numbers (2)</a>",
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Geometry | Trigonometry",
+        "ul": "Geometry"
     },
     {
         "id": "15236",
@@ -1109,7 +1394,10 @@
         "title": "Abbey Courtyard",
         "type": "BJE",
         "link": "<a href=\"http://acmicpc.net/problem/15610\">Abbey Courtyard (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Exponent | Logarithm",
+        "ul": "Exponent"
     },
     {
         "id": "15680",
@@ -1118,7 +1406,10 @@
         "title": "연세대학교",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15680\">연세대학교 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "if, else | elif",
+        "ul": "If, else"
     },
     {
         "id": "15700",
@@ -1127,7 +1418,10 @@
         "title": "타일 채우기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15700\">타일 채우기 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Quotient | Remainder | Division",
+        "ul": "Quotient"
     },
     {
         "id": "15726",
@@ -1136,7 +1430,10 @@
         "title": "이칙연산",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15726\">이칙연산 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "min, max | abs",
+        "ul": "abs"
     },
     {
         "id": "15873",
@@ -1145,7 +1442,10 @@
         "title": "공백 없는 A+B",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15873\">공백 없는 A+B (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "split, map | builtins",
+        "ul": "builtins"
     },
     {
         "id": "15921",
@@ -1162,7 +1462,10 @@
         "title": "CASIO",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15963\">CASIO (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "if, else | elif",
+        "ul": "if, else"
     },
     {
         "id": "16017",
@@ -1179,7 +1482,10 @@
         "title": "나이 계산하기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/16199\">나이 계산하기 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "16204",
@@ -1188,7 +1494,10 @@
         "title": "카드뽑기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/16204\">카드뽑기 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "min, max | abs",
+        "ul": "abs"
     },
     {
         "id": "16428",
@@ -1197,7 +1506,10 @@
         "title": "A/B - 3",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/16428\">A/B - 3 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "if, else | elif",
+        "ul": "If, else"
     },
     {
         "id": "16431",
@@ -1206,7 +1518,10 @@
         "title": "베시와 데이지",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/16431\">베시와 데이지 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "min, max | abs",
+        "ul": "abs"
     },
     {
         "id": "16486",
@@ -1215,23 +1530,34 @@
         "title": "운동장 한 바퀴",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/16486\">운동장 한 바퀴 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Geometry | Trigonometry",
+        "ul": "Geometry"
     },
     {
         "id": "16600",
         "level": 2,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "Contemporary Art",
+        "type": "BJE",
+        "link": "<a href=\"http://acmicpc.net/problem/16600\">Contemporary Art (2)</a>",
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Exponent | Logarithm",
+        "ul": "Exponent"
     },
     {
         "id": "16648",
         "level": 2,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "Accumulator Battery",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/16648\">Accumulator Battery (2)</a>",
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Quotient | Remainder | Division",
+        "ul": "Division"
     },
     {
         "id": "16693",
@@ -1240,7 +1566,10 @@
         "title": "Pizza Deal",
         "type": "BJE",
         "link": "<a href=\"http://acmicpc.net/problem/16693\">Pizza Deal (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Geometry | Trigonometry",
+        "ul": "Geometry"
     },
     {
         "id": "16727",
@@ -1265,7 +1594,10 @@
         "title": "Winning Score",
         "type": "BJE",
         "link": "<a href=\"http://acmicpc.net/problem/17009\">Winning Score (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "if, else | elif",
+        "ul": "If, else"
     },
     {
         "id": "17362",
@@ -1274,7 +1606,10 @@
         "title": "수학은 체육과목 입니다2",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/17362\">수학은 체육과목 입니다2 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "Logical",
+        "ul": "Logical"
     },
     {
         "id": "17388",
@@ -1283,7 +1618,10 @@
         "title": "와글와글 숭고한",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/17388\">와글와글 숭고한 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "Logical",
+        "ul": "Logical"
     },
     {
         "id": "17863",
@@ -1292,7 +1630,10 @@
         "title": "FYI",
         "type": "BJE",
         "link": "<a href=\"http://acmicpc.net/problem/17863\">FYI (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "Index, Slice",
+        "ul": "Index, slice"
     },
     {
         "id": "17874",
@@ -1306,9 +1647,13 @@
         "id": "17903",
         "level": 2,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "Counting Clauses",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/17903\">Counting Clauses (2)</a>",
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "if, else | elif",
+        "ul": "If, else"
     },
     {
         "id": "18005",
@@ -1322,9 +1667,13 @@
         "id": "18330",
         "level": 2,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "Petrol",
+        "type": "BJE",
+        "link": "<a href=\"http://acmicpc.net/problem/18330\">Petrol (2)</a>",
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "min, max | abs",
+        "ul": "min, max"
     },
     {
         "id": "18408",
@@ -1357,7 +1706,10 @@
         "title": "Dog Treats",
         "type": "BJE",
         "link": "<a href=\"http://acmicpc.net/problem/19602\">Dog Treats (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "format | comprehension",
+        "ul": "comprehension"
     },
     {
         "id": "19698",
@@ -1366,7 +1718,10 @@
         "title": "헛간 청약",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/19698\">헛간 청약 (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "min, max | abs",
+        "ul": "min, max"
     },
     {
         "id": "19944",
@@ -1375,7 +1730,10 @@
         "title": "뉴비의 기준은 뭘까?",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/19944\">뉴비의 기준은 뭘까? (2)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "if, else | elif",
+        "ul": "elif"
     },
     {
         "id": "1009",
@@ -1384,7 +1742,10 @@
         "title": "분산 처리",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1009\">분산 처리 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Exponent | Logarithm",
+        "ul": "Exponent"
     },
     {
         "id": "1085",
@@ -1393,7 +1754,10 @@
         "title": "직사각형에서 탈출",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1085\">직사각형에서 탈출 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "min, max | abs",
+        "ul": "min, max"
     },
     {
         "id": "1247",
@@ -1402,7 +1766,10 @@
         "title": "부호",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1247\">부호 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[7] Tricks",
+        "h3": "sys | copy ",
+        "ul": "sys"
     },
     {
         "id": "1267",
@@ -1435,7 +1802,10 @@
         "title": "공",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1547\">공 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "1598",
@@ -1444,7 +1814,10 @@
         "title": "꼬리를 무는 숫자 나열",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1598\">꼬리를 무는 숫자 나열 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "min, max | abs",
+        "ul": "abs"
     },
     {
         "id": "1703",
@@ -1461,7 +1834,10 @@
         "title": "암호제작",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1837\">암호제작 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "1864",
@@ -1470,7 +1846,10 @@
         "title": "문어 숫자",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1864\">문어 숫자 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Bit | Operation",
+        "ul": "Bit"
     },
     {
         "id": "1942",
@@ -1495,7 +1874,10 @@
         "title": "오각형",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1964\">오각형 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Series",
+        "ul": "Series"
     },
     {
         "id": "1975",
@@ -1512,7 +1894,10 @@
         "title": "플러그",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2010\">플러그 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "2052",
@@ -1521,7 +1906,10 @@
         "title": "지수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2052\">지수 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Exponent | Logarithm",
+        "ul": "Exponent"
     },
     {
         "id": "2061",
@@ -1538,7 +1926,10 @@
         "title": "초콜릿 자르기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2163\">초콜릿 자르기 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Multiply | Variable",
+        "ul": "Variable"
     },
     {
         "id": "2355",
@@ -1547,7 +1938,10 @@
         "title": "시그마",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2355\">시그마 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Series",
+        "ul": "Series"
     },
     {
         "id": "2438",
@@ -1556,7 +1950,10 @@
         "title": "별찍기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2438\">별찍기 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] loops",
+        "h3": "for",
+        "ul": "for"
     },
     {
         "id": "2439",
@@ -1565,7 +1962,10 @@
         "title": "별찍기2",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2439\">별찍기2 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "range"
     },
     {
         "id": "2440",
@@ -1574,7 +1974,10 @@
         "title": "별찍기3",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2440\">별찍기3 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "range"
     },
     {
         "id": "2441",
@@ -1583,7 +1986,10 @@
         "title": "별찍기4",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2441\">별찍기4 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "range"
     },
     {
         "id": "2442",
@@ -1592,7 +1998,10 @@
         "title": "별찍기5",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2442\">별찍기5 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "range"
     },
     {
         "id": "2443",
@@ -1601,7 +2010,10 @@
         "title": "별찍기6",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2443\">별찍기6 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "range"
     },
     {
         "id": "2444",
@@ -1610,7 +2022,10 @@
         "title": "별찍기7",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2444\">별찍기7 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "range"
     },
     {
         "id": "2445",
@@ -1619,7 +2034,10 @@
         "title": "별찍기8",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2445\">별찍기8 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "range"
     },
     {
         "id": "2446",
@@ -1628,7 +2046,10 @@
         "title": "별찍기9",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2446\">별찍기9 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "range"
     },
     {
         "id": "2455",
@@ -1637,7 +2058,10 @@
         "title": "지능형 기차",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2455\">지능형 기차 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "2460",
@@ -1646,7 +2070,10 @@
         "title": "지능형 기차2",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2460\">지능형 기차2 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "2476",
@@ -1655,7 +2082,10 @@
         "title": "주사위 게임",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2476\">주사위 게임 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "2490",
@@ -1664,7 +2094,10 @@
         "title": "윷놀이",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2490\">윷놀이 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "2501",
@@ -1673,7 +2106,10 @@
         "title": "약수 구하기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2501\">약수 구하기 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "prime | gcd, lcm",
+        "ul": "prime"
     },
     {
         "id": "2506",
@@ -1690,7 +2126,10 @@
         "title": "카드놀이",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2511\">카드놀이 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "tuple, zip",
+        "ul": "Tuple, zip"
     },
     {
         "id": "2522",
@@ -1699,7 +2138,10 @@
         "title": "별찍기12",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2522\">별찍기12 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "range"
     },
     {
         "id": "2523",
@@ -1716,7 +2158,10 @@
         "title": "사탕 선생 고창영",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2547\">사탕 선생 고창영 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "2566",
@@ -1725,7 +2170,10 @@
         "title": "최댓값",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2566\">최댓값 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "lists | 2D",
+        "ul": "2D"
     },
     {
         "id": "2576",
@@ -1734,7 +2182,10 @@
         "title": "홀수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2576\">홀수 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "2720",
@@ -1751,7 +2202,10 @@
         "title": "구구단",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2739\">구구단 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] loops",
+        "h3": "for",
+        "ul": "for"
     },
     {
         "id": "2741",
@@ -1776,7 +2230,10 @@
         "title": "피보나치 수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2747\">피보나치 수 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "tuple, zip",
+        "ul": "Tuple, zip"
     },
     {
         "id": "2754",
@@ -1785,7 +2242,10 @@
         "title": "학점계산",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2754\">학점계산 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[5] Hashing",
+        "h3": "dictionary | Counter",
+        "ul": "dictionary"
     },
     {
         "id": "2765",
@@ -1810,16 +2270,22 @@
         "title": "이게 분수?",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2863\">이게 분수? (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "lists | 2D",
+        "ul": "Lists"
     },
     {
         "id": "2875",
         "level": 3,
         "chapter": 10,
-        "title": "대회 or 인턴",
+        "title": "FBI",
         "type": "BJ",
-        "link": "<a href=\"http://acmicpc.net/problem/2875\">대회 or 인턴 (3)</a>",
-        "python": []
+        "link": "<a href=\"http://acmicpc.net/problem/2875\">FBI (3)</a>",
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "strings",
+        "ul": "Strings"
     },
     {
         "id": "2884",
@@ -1828,7 +2294,10 @@
         "title": "알람 시계",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2884\">알람 시계 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "if, else | elif",
+        "ul": "If, else"
     },
     {
         "id": "2903",
@@ -1837,7 +2306,10 @@
         "title": "중앙 이동 알고리즘",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2903\">중앙 이동 알고리즘 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Exponent | Logarithm",
+        "ul": "Exponent"
     },
     {
         "id": "2921",
@@ -1854,7 +2326,10 @@
         "title": "소음",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2935\">소음 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[7] Tricks",
+        "h3": "eval | try",
+        "ul": "Code"
     },
     {
         "id": "2953",
@@ -1863,7 +2338,10 @@
         "title": "나는 요리사다",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2953\">나는 요리사다 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "2959",
@@ -1872,7 +2350,10 @@
         "title": "거북이",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2959\">거북이 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "2965",
@@ -1897,7 +2378,10 @@
         "title": "세 수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2985\">세 수 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "if, else | elif",
+        "ul": "elif"
     },
     {
         "id": "2991",
@@ -1914,7 +2398,10 @@
         "title": "네 번째 수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2997\">네 번째 수 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "3009",
@@ -1923,7 +2410,10 @@
         "title": "네 번째 점",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/3009\">네 번째 점 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Bit | Operation",
+        "ul": "Operation"
     },
     {
         "id": "3028",
@@ -1932,7 +2422,10 @@
         "title": "창영마을",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/3028\">창영마을 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "3029",
@@ -1949,7 +2442,10 @@
         "title": "앵그리 창영",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/3034\">앵그리 창영 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Exponent | Logarithm",
+        "ul": "Exponent"
     },
     {
         "id": "3049",
@@ -1958,7 +2454,10 @@
         "title": "다각형의 대각선",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/3049\">다각형의 대각선 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "! Counting | Comb | stat",
+        "ul": "Combination"
     },
     {
         "id": "3053",
@@ -1967,7 +2466,10 @@
         "title": "택시 기하학",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/3053\">택시 기하학 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Geometry | Trigonometry",
+        "ul": "Geometry"
     },
     {
         "id": "3058",
@@ -1976,7 +2478,10 @@
         "title": "짝수를 찾아라",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/3058\">짝수를 찾아라 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "format | comprehension",
+        "ul": "comprehension"
     },
     {
         "id": "3460",
@@ -1985,7 +2490,10 @@
         "title": "이진수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/3460\">이진수 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Bit | Operation",
+        "ul": "Bit"
     },
     {
         "id": "3486",
@@ -2018,7 +2526,10 @@
         "title": "크냐?",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/4101\">크냐? (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "4153",
@@ -2027,7 +2538,10 @@
         "title": "직각삼각형",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/4153\">직각삼각형 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "4388",
@@ -2052,7 +2566,10 @@
         "title": "배수 찾기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/4504\">배수 찾기 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "4619",
@@ -2117,7 +2634,10 @@
         "title": "일반 화학 실험",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/4766\">일반 화학 실험 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "4880",
@@ -2126,7 +2646,10 @@
         "title": "다음수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/4880\">다음수 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "4892",
@@ -2175,7 +2698,10 @@
         "title": "삼각형과 세 변",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5073\">삼각형과 세 변 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "5074",
@@ -2192,7 +2718,10 @@
         "title": "배수와 약수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5086\">배수와 약수 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "5217",
@@ -2201,7 +2730,10 @@
         "title": "쌍의 합",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5217\">쌍의 합 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "lists | 2D",
+        "ul": "Lists"
     },
     {
         "id": "5354",
@@ -2218,7 +2750,10 @@
         "title": "전투 드로이드 가격",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5361\">전투 드로이드 가격 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "format | comprehension",
+        "ul": "format"
     },
     {
         "id": "5523",
@@ -2227,7 +2762,10 @@
         "title": "경기 결과",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5523\">경기 결과 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[7] Tricks",
+        "h3": "sys | copy ",
+        "ul": "sys"
     },
     {
         "id": "5565",
@@ -2236,7 +2774,10 @@
         "title": "영수증",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5565\">영수증 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "5612",
@@ -2245,7 +2786,10 @@
         "title": "터널의 입구와 출구",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5612\">터널의 입구와 출구 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "5613",
@@ -2262,7 +2806,10 @@
         "title": "공약수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5618\">공약수 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "prime | gcd, lcm",
+        "ul": "gcd, lcm"
     },
     {
         "id": "5666",
@@ -2287,7 +2834,10 @@
         "title": "상근이의 친구들",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5717\">상근이의 친구들 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "5751",
@@ -2488,7 +3038,10 @@
         "title": "직사각형을 만드는 방법",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/8320\">직사각형을 만드는 방법 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "8558",
@@ -2569,7 +3122,10 @@
         "title": "더하기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/9085\">더하기 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "9094",
@@ -2626,7 +3182,10 @@
         "title": "주사위",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/9295\">주사위 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "format | comprehension",
+        "ul": "format"
     },
     {
         "id": "9297",
@@ -2667,7 +3226,10 @@
         "title": "Hello Judge",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/9316\">Hello Judge (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "format | comprehension",
+        "ul": "format"
     },
     {
         "id": "9317",
@@ -2852,7 +3414,10 @@
         "title": "Baseball",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10214\">Baseball (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "10250",
@@ -2861,7 +3426,10 @@
         "title": "ACM 호텔",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10250\">ACM 호텔 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "10262",
@@ -2910,7 +3478,10 @@
         "title": "서버",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10409\">서버 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "10419",
@@ -2927,7 +3498,10 @@
         "title": "분수좋아해?",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10474\">분수좋아해? (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "10480",
@@ -2952,7 +3526,10 @@
         "title": "다면체",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10569\">다면체 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "10599",
@@ -3001,7 +3578,10 @@
         "title": "최소, 최대",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10818\">최소, 최대 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "min, max | abs",
+        "ul": "min, max"
     },
     {
         "id": "10824",
@@ -3010,7 +3590,10 @@
         "title": "네 수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10824\">네 수 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Add | Subtract",
+        "ul": "Add"
     },
     {
         "id": "10833",
@@ -3035,7 +3618,10 @@
         "title": "X 보다 작은 수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10871\">X 보다 작은 수 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "lists | 2D",
+        "ul": "Lists"
     },
     {
         "id": "10872",
@@ -3044,7 +3630,10 @@
         "title": "팩토리얼",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10872\">팩토리얼 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "10886",
@@ -3062,7 +3651,10 @@
         "title": "A + B - 3",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10950\">A + B - 3 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "10951",
@@ -3071,7 +3663,10 @@
         "title": "A+B - 4",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10951\">A+B - 4 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] input",
+        "h3": "iostream | cstdio",
+        "ul": "cstdio"
     },
     {
         "id": "10952",
@@ -3080,7 +3675,10 @@
         "title": "A + B - 5",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10952\">A + B - 5 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "10984",
@@ -3097,7 +3695,10 @@
         "title": "별 찍기 - 15",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10990\">별 찍기 - 15 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "range"
     },
     {
         "id": "10991",
@@ -3106,7 +3707,10 @@
         "title": "별찍기 16",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10991\">별찍기 16 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "range"
     },
     {
         "id": "10992",
@@ -3123,7 +3727,10 @@
         "title": "남욱이의 닭장",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11006\">남욱이의 닭장 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "11021",
@@ -3132,7 +3739,10 @@
         "title": "A+B - 7",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11021\">A+B - 7 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "format | comprehension",
+        "ul": "format"
     },
     {
         "id": "11022",
@@ -3141,7 +3751,10 @@
         "title": "A+B - 8",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11022\">A+B - 8 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "format | comprehension",
+        "ul": "format"
     },
     {
         "id": "11023",
@@ -3158,7 +3771,10 @@
         "title": "더하기 4",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11024\">더하기 4 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "split, map | builtins",
+        "ul": "builtins"
     },
     {
         "id": "11034",
@@ -3191,7 +3807,10 @@
         "title": "쿠키 애호가",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11134\">쿠키 애호가 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "11161",
@@ -3352,7 +3971,10 @@
         "title": "XORXORXOR",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/12833\">XORXORXOR (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Bit | Operation",
+        "ul": "Operation"
     },
     {
         "id": "12840",
@@ -3681,7 +4303,10 @@
         "title": "조교는 새디스트야!!",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/14656\">조교는 새디스트야!! (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "enumerate"
     },
     {
         "id": "14682",
@@ -3727,9 +4352,13 @@
         "id": "14790",
         "level": 3,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "Tidy Numbers",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/14790\">Tidy Numbers (3)</a>",
+        "p": "",
+        "h2": "[11] Greedy",
+        "h3": "sweeping | bruteforce",
+        "ul": "brute force"
     },
     {
         "id": "14803",
@@ -3746,7 +4375,10 @@
         "title": "양수 개수 세기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/14909\">양수 개수 세기 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "lists | 2D",
+        "ul": "Lists"
     },
     {
         "id": "14913",
@@ -3763,7 +4395,10 @@
         "title": "3n+1 수열",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/14920\">3n+1 수열 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "15036",
@@ -3924,7 +4559,10 @@
         "title": "A/B - 2",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15792\">A/B - 2 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[7] Tricks",
+        "h3": "Decimal | random | re",
+        "ul": "Decimal"
     },
     {
         "id": "15818",
@@ -3949,7 +4587,10 @@
         "title": "Simple Arithmetic",
         "type": "BJE",
         "link": "<a href=\"http://acmicpc.net/problem/15858\">Simple Arithmetic (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[7] Tricks",
+        "h3": "Decimal | random | re",
+        "ul": "Decimal"
     },
     {
         "id": "15885",
@@ -4118,7 +4759,10 @@
         "title": "3의 배수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/16561\">3의 배수 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Series",
+        "ul": "Series"
     },
     {
         "id": "16625",
@@ -4175,7 +4819,10 @@
         "title": "양념 반 후라이드 반",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/16917\">양념 반 후라이드 반 (3)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "min, max | abs",
+        "ul": "min, max"
     },
     {
         "id": "17010",
@@ -4376,7 +5023,10 @@
         "title": "나누기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1075\">나누기 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "format | comprehension",
+        "ul": "format"
     },
     {
         "id": "1076",
@@ -4393,7 +5043,10 @@
         "title": "하얀 칸",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1100\">하얀 칸 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "lists | 2D",
+        "ul": "2D"
     },
     {
         "id": "1152",
@@ -4402,7 +5055,10 @@
         "title": "단어의 개수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1152\">단어의 개수 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "split, map | builtins",
+        "ul": "builtins"
     },
     {
         "id": "1159",
@@ -4427,7 +5083,10 @@
         "title": "분수찾기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1193\">분수찾기 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "1225",
@@ -4436,7 +5095,10 @@
         "title": "이상한",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1225\">이상한 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "1233",
@@ -4493,7 +5155,10 @@
         "title": "가장 많은 글자",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1371\">가장 많은 글자 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[5] Hashing",
+        "h3": "dictionary | Counter",
+        "ul": "Counter"
     },
     {
         "id": "1373",
@@ -4534,7 +5199,10 @@
         "title": "수열의 변화",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1551\">수열의 변화 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "format | comprehension",
+        "ul": "format"
     },
     {
         "id": "1568",
@@ -4567,7 +5235,10 @@
         "title": "트로피 진열",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1668\">트로피 진열 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "Join | Reversed",
+        "ul": "BJ"
     },
     {
         "id": "1672",
@@ -4640,7 +5311,10 @@
         "title": "애너그램 만들기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1919\">애너그램 만들기 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[5] Hashing",
+        "h3": "dictionary | Counter",
+        "ul": "Counter"
     },
     {
         "id": "2028",
@@ -4697,7 +5371,10 @@
         "title": "분해합",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2231\">분해합 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "2292",
@@ -4706,7 +5383,10 @@
         "title": "벌집",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2292\">벌집 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "2309",
@@ -4715,7 +5395,10 @@
         "title": "일곱 난쟁이",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2309\">일곱 난쟁이 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "! Counting | Comb | stat",
+        "ul": "Combination"
     },
     {
         "id": "2386",
@@ -4732,7 +5415,10 @@
         "title": "거리의 합",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2399\">거리의 합 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "2408",
@@ -4789,7 +5475,10 @@
         "title": "숫자의 개수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2577\">숫자의 개수 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "strings",
+        "ul": "Strings"
     },
     {
         "id": "2587",
@@ -4798,7 +5487,10 @@
         "title": "대표값2",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2587\">대표값2 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "2592",
@@ -4823,7 +5515,10 @@
         "title": "줄 세우기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2605\">줄 세우기 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[8] Advanced Data structure",
+        "h3": "queue | stack | deque | heapq",
+        "ul": "deque"
     },
     {
         "id": "2622",
@@ -4848,7 +5543,10 @@
         "title": "문자열 반복",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2675\">문자열 반복 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "lists | 2D",
+        "ul": "2D"
     },
     {
         "id": "2678",
@@ -4873,7 +5571,10 @@
         "title": "오타맨 고창영",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2711\">오타맨 고창영 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "Index, Slice",
+        "ul": "Index, slice"
     },
     {
         "id": "2712",
@@ -4906,7 +5607,10 @@
         "title": "대소문자 바꾸기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2744\">대소문자 바꾸기 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "strings",
+        "ul": "Strings"
     },
     {
         "id": "2745",
@@ -4915,7 +5619,10 @@
         "title": "진법 변환",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2745\">진법 변환 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Bit | Operation",
+        "ul": "Bit"
     },
     {
         "id": "2756",
@@ -4940,7 +5647,10 @@
         "title": "부녀회장이 될테야",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2775\">부녀회장이 될테야 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "format | comprehension",
+        "ul": "comprehension"
     },
     {
         "id": "2789",
@@ -4957,7 +5667,10 @@
         "title": "블랙잭",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2798\">블랙잭 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "! Counting | Comb | stat",
+        "ul": "Combination"
     },
     {
         "id": "2804",
@@ -4974,7 +5687,10 @@
         "title": "컵홀더",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2810\">컵홀더 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "strings",
+        "ul": "Strings"
     },
     {
         "id": "2846",
@@ -5007,7 +5723,10 @@
         "title": "5와 6의 차이",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2864\">5와 6의 차이 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "strings",
+        "ul": "Strings"
     },
     {
         "id": "2869",
@@ -5016,7 +5735,10 @@
         "title": "달팽이는 올라가고 싶다",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2869\">달팽이는 올라가고 싶다 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] Input",
+        "h3": "Quotient | Remainder | Division",
+        "ul": "Division"
     },
     {
         "id": "2902",
@@ -5025,7 +5747,10 @@
         "title": "KMP는 왜 KMP일까",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2902\">KMP는 왜 KMP일까 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "strings",
+        "ul": "Strings"
     },
     {
         "id": "2908",
@@ -5034,7 +5759,10 @@
         "title": "상수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2908\">상수 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "min, max | abs",
+        "ul": "abs"
     },
     {
         "id": "2909",
@@ -5051,7 +5779,10 @@
         "title": "음계",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2920\">음계 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "2930",
@@ -5092,7 +5823,10 @@
         "title": "트럭 주차",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2979\">트럭 주차 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "lists | 2D",
+        "ul": "2D"
     },
     {
         "id": "3040",
@@ -5109,7 +5843,10 @@
         "title": "ABC",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/3047\">ABC (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "3052",
@@ -5118,7 +5855,10 @@
         "title": "나머지",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/3052\">나머지 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[5] Hashing",
+        "h3": "set ",
+        "ul": "set"
     },
     {
         "id": "3059",
@@ -5351,7 +6091,10 @@
         "title": "첫 글자를 대문자로",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/4458\">첫 글자를 대문자로 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "strings",
+        "ul": "Strings"
     },
     {
         "id": "4470",
@@ -5552,7 +6295,10 @@
         "title": "아!",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/4999\">아! (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "split, map | builtins",
+        "ul": "builtins"
     },
     {
         "id": "5013",
@@ -5625,7 +6371,10 @@
         "title": "알파벳 거리",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5218\">알파벳 거리 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "Operators | Unicode",
+        "ul": "Unicode"
     },
     {
         "id": "5355",
@@ -5674,7 +6423,10 @@
         "title": "거스름돈",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5585\">거스름돈 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "5586",
@@ -5691,7 +6443,10 @@
         "title": "과제 안 내신 분..?",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5597\">과제 안 내신 분..? (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "format | comprehension",
+        "ul": "comprehension"
     },
     {
         "id": "5598",
@@ -5700,7 +6455,10 @@
         "title": "카이사르 암호",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5598\">카이사르 암호 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "Operators | Unicode",
+        "ul": "Unicode"
     },
     {
         "id": "5622",
@@ -5709,7 +6467,10 @@
         "title": "다이얼",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5622\">다이얼 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[3] Conditional",
+        "h3": "Operators | Unicode",
+        "ul": "Unicode"
     },
     {
         "id": "5656",
@@ -5838,7 +6599,10 @@
         "title": "Even Odd",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5988\">Even Odd (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "6013",
@@ -5999,7 +6763,10 @@
         "title": "싱기한 네자리 숫자",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/6679\">싱기한 네자리 숫자 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Bit | Operation",
+        "ul": "Bit"
     },
     {
         "id": "6696",
@@ -6336,7 +7103,10 @@
         "title": "OX 퀴즈",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/8958\">OX 퀴즈 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "8965",
@@ -6385,7 +7155,10 @@
         "title": "문자열",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/9086\">문자열 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "Index, Slice",
+        "ul": "Index, slice"
     },
     {
         "id": "9226",
@@ -6610,7 +7383,10 @@
         "title": "개표",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10102\">개표 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[5] Hashing",
+        "h3": "dictionary | Counter",
+        "ul": "Counter"
     },
     {
         "id": "10104",
@@ -6795,7 +7571,10 @@
         "title": "개수 세기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10807\">개수 세기 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "lists | 2D",
+        "ul": "Lists"
     },
     {
         "id": "10808",
@@ -6812,7 +7591,10 @@
         "title": "알파벳 찾기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10809\">알파벳 찾기 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "strings",
+        "ul": "Strings"
     },
     {
         "id": "10810",
@@ -6869,7 +7651,10 @@
         "title": "더하기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10822\">더하기 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "split, map | builtins",
+        "ul": "builtins"
     },
     {
         "id": "10823",
@@ -6902,7 +7687,10 @@
         "title": "피보나치 수 5",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10870\">피보나치 수 5 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[13] Recursion | Backtrack",
+        "h3": "Recursion",
+        "ul": "Recursion"
     },
     {
         "id": "10874",
@@ -7036,10 +7824,13 @@
         "id": "10953",
         "level": 4,
         "chapter": 4,
-        "title": " A+B - 6",
+        "title": " A+B - 6",
         "type": "BJ",
-        "link": "<a href=\"http://acmicpc.net/problem/10953\"> A+B - 6 (4)</a>",
-        "python": []
+        "link": "<a href=\"http://acmicpc.net/problem/10953\"> A+B - 6 (4)</a>",
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "10987",
@@ -7048,7 +7839,10 @@
         "title": "모음의 개수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10987\">모음의 개수 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "strings",
+        "ul": "Strings"
     },
     {
         "id": "10995",
@@ -7057,7 +7851,10 @@
         "title": "별 찍기 - 20",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10995\">별 찍기 - 20 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "range"
     },
     {
         "id": "10996",
@@ -7194,7 +7991,10 @@
         "title": "!밑비 급일",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11365\">!밑비 급일 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "Join | Reversed",
+        "ul": "BJ"
     },
     {
         "id": "11367",
@@ -7299,7 +8099,10 @@
         "title": "숫자의 합",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11720\">숫자의 합 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "split, map | builtins",
+        "ul": "builtins"
     },
     {
         "id": "11721",
@@ -7308,7 +8111,10 @@
         "title": "열 개씩 끊어 출력하기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11721\">열 개씩 끊어 출력하기 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "Index, Slice",
+        "ul": "Index, slice"
     },
     {
         "id": "11760",
@@ -7365,7 +8171,10 @@
         "title": "뜨거운 붕어빵",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11945\">뜨거운 붕어빵 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "Join | Reversed",
+        "ul": "BJ"
     },
     {
         "id": "11949",
@@ -7750,7 +8559,10 @@
         "title": "시험 감독",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/13458\">시험 감독 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "format | comprehension",
+        "ul": "comprehension"
     },
     {
         "id": "13462",
@@ -8007,7 +8819,10 @@
         "title": "한조서열정리하고옴",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/14659\">한조서열정리하고옴 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[11] Greedy",
+        "h3": "Optimize | others",
+        "ul": "others"
     },
     {
         "id": "14683",
@@ -8344,7 +9159,10 @@
         "title": "빠른 A+B",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15552\">빠른 A+B (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[7] Tricks",
+        "h3": "sys | copy ",
+        "ul": "sys"
     },
     {
         "id": "15593",
@@ -8361,7 +9179,10 @@
         "title": "정수 N개의 합",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15596\">정수 N개의 합 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "split, map | builtins",
+        "ul": "builtins"
     },
     {
         "id": "15612",
@@ -8426,7 +9247,10 @@
         "title": "Hashing",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15829\">Hashing (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[5] Hashing",
+        "h3": "set ",
+        "ul": "set"
     },
     {
         "id": "15841",
@@ -8683,7 +9507,10 @@
         "title": "차량 번호판 1",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/16968\">차량 번호판 1 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "! Counting | Comb | stat",
+        "ul": "Counting"
     },
     {
         "id": "16972",
@@ -8852,7 +9679,10 @@
         "title": "막대기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/17608\">막대기 (4)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "Join | Reversed",
+        "ul": "BJ"
     },
     {
         "id": "17791",
@@ -9221,7 +10051,10 @@
         "title": "더하기 사이클",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1110\">더하기 사이클 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "1157",
@@ -9230,7 +10063,10 @@
         "title": "단어 공부",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1157\">단어 공부 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[5] Hashing",
+        "h3": "dictionary | Counter",
+        "ul": "Counter"
     },
     {
         "id": "1236",
@@ -9255,7 +10091,10 @@
         "title": "팰린드롬 수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1259\">팰린드롬 수 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "1268",
@@ -9296,7 +10135,10 @@
         "title": "뒤집힌 덧셈",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1357\">뒤집힌 덧셈 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "Join | Reversed",
+        "ul": "BJ"
     },
     {
         "id": "1359",
@@ -9345,7 +10187,10 @@
         "title": "피시방 알바",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1453\">피시방 알바 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[5] Hashing",
+        "h3": "set ",
+        "ul": "set"
     },
     {
         "id": "1459",
@@ -9359,9 +10204,13 @@
         "id": "1526",
         "level": 5,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "가장 큰 금민수",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/1526\">가장 큰 금민수 (5)</a>",
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "1546",
@@ -9370,7 +10219,10 @@
         "title": "평균",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1546\">평균 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "split, map | builtins",
+        "ul": "builtins"
     },
     {
         "id": "1652",
@@ -9379,7 +10231,10 @@
         "title": "누울 자리를 찾아라",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1652\">누울 자리를 찾아라 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "lists | 2D",
+        "ul": "2D"
     },
     {
         "id": "1740",
@@ -9404,7 +10259,10 @@
         "title": "나머지와 몫이 같은 수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1834\">나머지와 몫이 같은 수 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Exponent | Logarithm",
+        "ul": "Exponent"
     },
     {
         "id": "1855",
@@ -9429,7 +10287,10 @@
         "title": "2007년",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1924\">2007년 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "Index, Slice",
+        "ul": "Index, slice"
     },
     {
         "id": "1925",
@@ -9518,7 +10379,10 @@
         "title": "2차원 배열의 합",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2167\">2차원 배열의 합 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Game | optimization | Others",
+        "ul": "DP Others"
     },
     {
         "id": "2358",
@@ -9527,7 +10391,10 @@
         "title": "평행선",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2358\">평행선 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[5] Hashing",
+        "h3": "dictionary | Counter",
+        "ul": "Counter"
     },
     {
         "id": "2456",
@@ -9568,7 +10435,10 @@
         "title": "초6 수학",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2702\">초6 수학 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "prime | gcd, lcm",
+        "ul": "gcd, lcm"
     },
     {
         "id": "2703",
@@ -9585,15 +10455,22 @@
         "title": "행렬 덧셈",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2738\">행렬 덧셈 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "tuple, zip",
+        "ul": "Tuple, zip"
     },
     {
         "id": "2740",
         "level": 5,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "행렬 곱셈",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/2740\">행렬 곱셈 (5)</a>",
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "lists | 2D",
+        "ul": "Lists"
     },
     {
         "id": "2755",
@@ -9634,15 +10511,22 @@
         "title": "설탕 배달",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2839\">설탕 배달 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[11] Greedy",
+        "h3": "Optimize | others",
+        "ul": "BJ"
     },
     {
         "id": "2851",
         "level": 5,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "슈퍼 마리오",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/2851\">슈퍼 마리오 (5)</a>",
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "2890",
@@ -9811,7 +10695,10 @@
         "title": "헤일스톤 수열",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/3943\">헤일스톤 수열 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "3982",
@@ -9852,7 +10739,10 @@
         "title": "평균은 넘겠지",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/4344\">평균은 넘겠지 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "format | comprehension",
+        "ul": "comprehension"
     },
     {
         "id": "4411",
@@ -9925,7 +10815,10 @@
         "title": "셀프 넘버",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/4673\">셀프 넘버 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "4682",
@@ -10006,7 +10899,10 @@
         "title": "유니크",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5533\">유니크 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[5] Hashing",
+        "h3": "dictionary | Counter",
+        "ul": "Counter"
     },
     {
         "id": "5544",
@@ -10340,9 +11236,13 @@
         "id": "9093",
         "level": 5,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "단어 뒤집기",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/9093\">단어 뒤집기 (5)</a>",
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "strings",
+        "ul": "Strings"
     },
     {
         "id": "9215",
@@ -10463,7 +11363,10 @@
         "title": "약수들의 합",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/9506\">약수들의 합 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "prime | gcd, lcm",
+        "ul": "gcd, lcm"
     },
     {
         "id": "9512",
@@ -10488,7 +11391,10 @@
         "title": "BABBA",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/9625\">BABBA (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "9631",
@@ -10510,9 +11416,13 @@
         "id": "9933",
         "level": 5,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "민균이의 비밀번호",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/9933\">민균이의 비밀번호 (5)</a>",
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "strings",
+        "ul": "Strings"
     },
     {
         "id": "9946",
@@ -10545,7 +11455,10 @@
         "title": "색종이",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10163\">색종이 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "lists | 2D",
+        "ul": "Lists"
     },
     {
         "id": "10177",
@@ -10690,7 +11603,10 @@
         "title": "행복한지 슬픈지",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10769\">행복한지 슬픈지 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "split, map | builtins",
+        "ul": "builtins"
     },
     {
         "id": "10784",
@@ -10707,7 +11623,10 @@
         "title": "세로읽기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10798\">세로읽기 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "lists | 2D",
+        "ul": "2D"
     },
     {
         "id": "10829",
@@ -10716,7 +11635,10 @@
         "title": "이진수 변환",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10829\">이진수 변환 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Bit | Operation",
+        "ul": "Bit"
     },
     {
         "id": "10960",
@@ -10730,9 +11652,13 @@
         "id": "10988",
         "level": 5,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "팰린드롬인지 확인하기",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/10988\">팰린드롬인지 확인하기 (5)</a>",
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "strings",
+        "ul": "Strings"
     },
     {
         "id": "11005",
@@ -10741,7 +11667,10 @@
         "title": "진법 변환 2",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11005\">진법 변환 2 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Bit | Operation",
+        "ul": "Bit"
     },
     {
         "id": "11008",
@@ -10758,7 +11687,10 @@
         "title": "이항 계수1",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11050\">이항 계수1 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "! Counting | Comb | stat",
+        "ul": "Combination"
     },
     {
         "id": "11070",
@@ -10943,7 +11875,10 @@
         "title": "그대로 출력하기 2",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11719\">그대로 출력하기 2 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[2] input",
+        "h3": "iostream | cstdio",
+        "ul": "iostream"
     },
     {
         "id": "11771",
@@ -10968,7 +11903,10 @@
         "title": "8진수, 10진수, 16진수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11816\">8진수, 10진수, 16진수 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Bit | Operation",
+        "ul": "Bit"
     },
     {
         "id": "11972",
@@ -11310,9 +12248,13 @@
         "id": "13301",
         "level": 5,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "타일 장식물",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/13301\">타일 장식물 (5)</a>",
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "13322",
@@ -11921,7 +12863,10 @@
         "title": "차량 번호판 2",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/16969\">차량 번호판 2 (5)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "! Counting | Comb | stat",
+        "ul": "Counting"
     },
     {
         "id": "17013",
@@ -12338,7 +13283,10 @@
         "title": "다리 놓기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1010\">다리 놓기 (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "! Counting | Comb | stat",
+        "ul": "Combination"
     },
     {
         "id": "1018",
@@ -12347,7 +13295,10 @@
         "title": "체스판 다시 칠하기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1018\">체스판 다시 칠하기 (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "lists | 2D",
+        "ul": "2D"
     },
     {
         "id": "1037",
@@ -12356,7 +13307,10 @@
         "title": "약수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1037\">약수 (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "prime | gcd, lcm",
+        "ul": "prime"
     },
     {
         "id": "1059",
@@ -12405,7 +13359,10 @@
         "title": "요세푸스 문제",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1158\">요세푸스 문제 (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "1181",
@@ -12414,7 +13371,10 @@
         "title": "단어 정렬",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1181\">단어 정렬 (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "1183",
@@ -12447,7 +13407,10 @@
         "title": "그룹 단어 체커",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1316\">그룹 단어 체커 (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[5] Hashing",
+        "h3": "dictionary | Counter",
+        "ul": "Counter"
     },
     {
         "id": "1331",
@@ -12488,7 +13451,10 @@
         "title": "소트인사이드",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1427\">소트인사이드 (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "1436",
@@ -12497,15 +13463,22 @@
         "title": "영화감독 숌",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1436\">영화감독 숌 (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "1439",
         "level": 6,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "뒤집기",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/1439\">뒤집기 (6)</a>",
+        "p": "",
+        "h2": "[11] Greedy",
+        "h3": "Optimize | others",
+        "ul": "others"
     },
     {
         "id": "1475",
@@ -12591,9 +13564,13 @@
         "id": "1783",
         "level": 6,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "병든 나이트",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/1783\">병든 나이트 (6)</a>",
+        "p": "",
+        "h2": "[11] Greedy",
+        "h3": "Optimize | others",
+        "ul": "others"
     },
     {
         "id": "1789",
@@ -12602,7 +13579,10 @@
         "title": "수들의 합",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1789\">수들의 합 (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Series",
+        "ul": "Series"
     },
     {
         "id": "1812",
@@ -12635,7 +13615,10 @@
         "title": "최소공배수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1934\">최소공배수 (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "prime | gcd, lcm",
+        "ul": "gcd, lcm"
     },
     {
         "id": "1969",
@@ -12812,7 +13795,10 @@
         "title": "LCM, GCD",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2609\">LCM, GCD (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "prime | gcd, lcm",
+        "ul": "gcd, lcm"
     },
     {
         "id": "2621",
@@ -12845,7 +13831,10 @@
         "title": "N번째 큰 수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2693\">N번째 큰 수 (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "2714",
@@ -12878,7 +13867,10 @@
         "title": "수 정렬하기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2750\">수 정렬하기 (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "2751",
@@ -12975,7 +13967,10 @@
         "title": "욕심쟁이 돼지",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/3060\">욕심쟁이 돼지 (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[7] Tricks",
+        "h3": "sys | copy ",
+        "ul": "Copy"
     },
     {
         "id": "3254",
@@ -13536,7 +14531,10 @@
         "title": "덩치",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/7568\">덩치 (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "lists | 2D",
+        "ul": "2D"
     },
     {
         "id": "7585",
@@ -13553,7 +14551,10 @@
         "title": "회사에 있는 사람",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/7785\">회사에 있는 사람 (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[5] Hashing",
+        "h3": "set ",
+        "ul": "set"
     },
     {
         "id": "7800",
@@ -13714,7 +14715,10 @@
         "title": "염색체",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/9342\">염색체 (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[7] Tricks",
+        "h3": "Decimal | random | re",
+        "ul": "re"
     },
     {
         "id": "9399",
@@ -13920,9 +14924,13 @@
         "id": "10610",
         "level": 6,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "30",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/10610\">30 (6)</a>",
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "prime | gcd, lcm",
+        "ul": "prime"
     },
     {
         "id": "10678",
@@ -13979,7 +14987,10 @@
         "title": "나이 순 정렬",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10814\">나이 순 정렬 (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "10837",
@@ -14001,9 +15012,13 @@
         "id": "10867",
         "level": 6,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "중복 빼고 정렬하기",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/10867\">중복 빼고 정렬하기 (6)</a>",
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "10892",
@@ -14020,7 +15035,10 @@
         "title": "K 번째 수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11004\">K 번째 수 (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "11038",
@@ -14213,7 +15231,10 @@
         "title": "Sort coordinate",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11650\">Sort coordinate (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "11651",
@@ -14222,7 +15243,10 @@
         "title": "Sort coordinate 2",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11651\">Sort coordinate 2 (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "11675",
@@ -14239,15 +15263,22 @@
         "title": "집합",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11723\">집합 (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "lists | 2D",
+        "ul": "2D"
     },
     {
         "id": "11728",
         "level": 6,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "배열 합치기",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/11728\">배열 합치기 (6)</a>",
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "11739",
@@ -14280,7 +15311,10 @@
         "title": "수 정렬하기 4",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11931\">수 정렬하기 4 (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "11946",
@@ -14961,7 +15995,10 @@
         "title": "거스름돈",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/14916\">거스름돈 (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[11] Greedy",
+        "h3": "Optimize | others",
+        "ul": "BJ"
     },
     {
         "id": "15008",
@@ -15058,7 +16095,10 @@
         "title": "수 정렬하기 5",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15688\">수 정렬하기 5 (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "15702",
@@ -15403,7 +16443,10 @@
         "title": "재귀함수가 뭔가요?",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/17478\">재귀함수가 뭔가요? (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[13] Recursion | Backtrack",
+        "h3": "Recursion",
+        "ul": "Recursion"
     },
     {
         "id": "17484",
@@ -15500,7 +16543,10 @@
         "title": "Four Squares",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/17626\">Four Squares (6)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Counting | Optimized path",
+        "ul": "Optimized path"
     },
     {
         "id": "17843",
@@ -15709,7 +16755,10 @@
         "title": "보물",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1026\">보물 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "tuple, zip",
+        "ul": "Tuple, zip"
     },
     {
         "id": "1049",
@@ -15731,9 +16780,13 @@
         "id": "1120",
         "level": 7,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "문자열",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/1120\">문자열 (7)</a>",
+        "p": "",
+        "h2": "[11] Greedy",
+        "h3": "sweeping | bruteforce",
+        "ul": "brute force"
     },
     {
         "id": "1205",
@@ -15742,7 +16795,10 @@
         "title": "등수 구하기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1205\">등수 구하기 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": " range | for | enumerate",
+        "ul": "for"
     },
     {
         "id": "1213",
@@ -15751,7 +16807,10 @@
         "title": "팰림드롬 만들기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1213\">팰림드롬 만들기 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "1235",
@@ -15776,7 +16835,10 @@
         "title": "쉽게 푸는 문제",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1292\">쉽게 푸는 문제 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "lists | 2D",
+        "ul": "Lists"
     },
     {
         "id": "1302",
@@ -15809,7 +16871,10 @@
         "title": "폴리오미노",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1343\">폴리오미노 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "strings",
+        "ul": "Strings"
     },
     {
         "id": "1347",
@@ -15826,7 +16891,10 @@
         "title": "정사각형",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1485\">정사각형 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Geometry | Trigonometry",
+        "ul": "Geometry"
     },
     {
         "id": "1487",
@@ -15851,7 +16919,10 @@
         "title": "문서 검색",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1543\">문서 검색 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "while, break | continue",
+        "ul": "while, break "
     },
     {
         "id": "1553",
@@ -15876,7 +16947,10 @@
         "title": "나는야 포켓몬 마스터",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1620\">나는야 포켓몬 마스터 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[5] Hashing",
+        "h3": "dictionary | Counter",
+        "ul": "Counter"
     },
     {
         "id": "1680",
@@ -15901,7 +16975,10 @@
         "title": "듣보잡",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1764\">듣보잡 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[5] Hashing",
+        "h3": "set ",
+        "ul": "set"
     },
     {
         "id": "1822",
@@ -15910,7 +16987,10 @@
         "title": "차집합",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1822\">차집합 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[5] Hashing",
+        "h3": "set ",
+        "ul": "set"
     },
     {
         "id": "1835",
@@ -15943,7 +17023,10 @@
         "title": "수 찾기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1920\">수 찾기 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "Binary | bisect | QSelect",
+        "ul": "Binary Search"
     },
     {
         "id": "1940",
@@ -15960,7 +17043,10 @@
         "title": "소수 찾기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1978\">소수 찾기 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "prime | gcd, lcm",
+        "ul": "prime"
     },
     {
         "id": "1980",
@@ -16009,7 +17095,10 @@
         "title": "카드 2",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2164\">카드 2 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[8] Advanced Data structure",
+        "h3": "queue | stack | deque | heapq",
+        "ul": "deque"
     },
     {
         "id": "2205",
@@ -16026,7 +17115,10 @@
         "title": "로프",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2217\">로프 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[11] Greedy",
+        "h3": "Optimize | others",
+        "ul": "BJ"
     },
     {
         "id": "2310",
@@ -16067,7 +17159,10 @@
         "title": "소수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2581\">소수 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "prime | gcd, lcm",
+        "ul": "prime"
     },
     {
         "id": "2597",
@@ -16092,7 +17187,10 @@
         "title": "비슷한 단어",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2607\">비슷한 단어 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[5] Hashing",
+        "h3": "dictionary | Counter",
+        "ul": "Counter"
     },
     {
         "id": "2659",
@@ -16106,9 +17204,13 @@
         "id": "2670",
         "level": 7,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "연속부분최대곱",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/2670\">연속부분최대곱 (7)</a>",
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Game | optimization | Others",
+        "ul": "optimization"
     },
     {
         "id": "2713",
@@ -16186,9 +17288,13 @@
         "id": "2960",
         "level": 7,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "에라토스테네스의 체",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/2960\">에라토스테네스의 체 (7)</a>",
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "prime | gcd, lcm",
+        "ul": "prime"
     },
     {
         "id": "3022",
@@ -16469,7 +17575,10 @@
         "title": "균형잡힌 세상",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/4949\">균형잡힌 세상 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[8] Advanced Data structure",
+        "h3": "queue | stack | deque | heapq",
+        "ul": "stack"
     },
     {
         "id": "5040",
@@ -16518,7 +17627,10 @@
         "title": "LCM",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5347\">LCM (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "prime | gcd, lcm",
+        "ul": "gcd, lcm"
     },
     {
         "id": "5393",
@@ -17007,7 +18119,10 @@
         "title": "돌 게임",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/9655\">돌 게임 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Game | optimization | Others",
+        "ul": "game"
     },
     {
         "id": "9656",
@@ -17016,7 +18131,10 @@
         "title": "돌 게임 2",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/9656\">돌 게임 2 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Game | optimization | Others",
+        "ul": "game"
     },
     {
         "id": "9718",
@@ -17241,7 +18359,10 @@
         "title": "제로",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10773\">제로 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[8] Advanced Data structure",
+        "h3": "queue | stack | deque | heapq",
+        "ul": "deque"
     },
     {
         "id": "10774",
@@ -17258,7 +18379,10 @@
         "title": "숫자 카드",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10815\">숫자 카드 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[5] Hashing",
+        "h3": "set ",
+        "ul": "set"
     },
     {
         "id": "10816",
@@ -17267,7 +18391,10 @@
         "title": "숫자 카드2",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10816\">숫자 카드2 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[5] Hashing",
+        "h3": "dictionary | Counter",
+        "ul": "Counter"
     },
     {
         "id": "10825",
@@ -17276,15 +18403,22 @@
         "title": "국영수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10825\">국영수 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "10826",
         "level": 7,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "피보나치 수 4",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/10826\">피보나치 수 4 (7)</a>",
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "tuple, zip",
+        "ul": "Tuple, zip"
     },
     {
         "id": "10828",
@@ -17309,7 +18443,10 @@
         "title": "덱",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10866\">덱 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[8] Advanced Data structure",
+        "h3": "queue | stack | deque | heapq",
+        "ul": "deque"
     },
     {
         "id": "10882",
@@ -17350,7 +18487,10 @@
         "title": "수 정렬하기 3",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10989\">수 정렬하기 3 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "10994",
@@ -17479,7 +18619,10 @@
         "title": "카드",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11652\">카드 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[5] Hashing",
+        "h3": "dictionary | Counter",
+        "ul": "Counter"
     },
     {
         "id": "11653",
@@ -17488,15 +18631,22 @@
         "title": "소인수분해",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11653\">소인수분해 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "prime | gcd, lcm",
+        "ul": "prime"
     },
     {
         "id": "11656",
         "level": 7,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "접미사 배열",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/11656\">접미사 배열 (7)</a>",
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "11674",
@@ -17801,7 +18951,10 @@
         "title": "조약돌 꺼내기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/13251\">조약돌 꺼내기 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "! Counting | Comb | stat",
+        "ul": "Combination"
     },
     {
         "id": "13268",
@@ -17823,9 +18976,13 @@
         "id": "13305",
         "level": 7,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "주유소",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/13305\">주유소 (7)</a>",
+        "p": "",
+        "h2": "[11] Greedy",
+        "h3": "Optimize | others",
+        "ul": "others"
     },
     {
         "id": "13411",
@@ -18050,7 +19207,10 @@
         "title": "퇴사",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/14501\">퇴사 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Game | optimization | Others",
+        "ul": "optimization"
     },
     {
         "id": "14557",
@@ -18507,7 +19667,10 @@
         "title": "비밀번호 찾기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/17219\">비밀번호 찾기 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[5] Hashing",
+        "h3": "dictionary | Counter",
+        "ul": "dictionary"
     },
     {
         "id": "17254",
@@ -18612,7 +19775,10 @@
         "title": "큐 2",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/18258\">큐 2 (7)</a>",
-        "python": []
+        "p": "",
+        "h2": "[8] Advanced Data structure",
+        "h3": "queue | stack | deque | heapq",
+        "ul": "deque"
     },
     {
         "id": "18332",
@@ -18757,7 +19923,10 @@
         "title": "게임",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1072\">게임 (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "Binary | bisect | QSelect",
+        "ul": "Binary Search"
     },
     {
         "id": "1124",
@@ -18950,7 +20119,10 @@
         "title": "랜선 자르기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1654\">랜선 자르기 (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "Binary | bisect | QSelect",
+        "ul": "Binary Search"
     },
     {
         "id": "1676",
@@ -18959,7 +20131,10 @@
         "title": "팩토리얼 0의 개수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1676\">팩토리얼 0의 개수 (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Exponent | Logarithm",
+        "ul": "Exponent"
     },
     {
         "id": "1699",
@@ -18968,7 +20143,10 @@
         "title": "제곱수의 합",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1699\">제곱수의 합 (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Counting | Optimized path",
+        "ul": "Optimized path"
     },
     {
         "id": "1706",
@@ -19049,7 +20227,10 @@
         "title": "프린터 큐",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1966\">프린터 큐 (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[8] Advanced Data structure",
+        "h3": "queue | stack | deque | heapq",
+        "ul": "deque"
     },
     {
         "id": "1972",
@@ -19074,7 +20255,10 @@
         "title": "수들의 합 2",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2003\">수들의 합 2 (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[11] Greedy",
+        "h3": "Two Pointer",
+        "ul": "Two Pointer"
     },
     {
         "id": "2012",
@@ -19211,7 +20395,10 @@
         "title": "놀이공원",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2594\">놀이공원 (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[11] Greedy",
+        "h3": "sweeping | bruteforce",
+        "ul": "sweeping"
     },
     {
         "id": "2606",
@@ -19220,7 +20407,10 @@
         "title": "바이러스",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2606\">바이러스 (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "BFS | floodfill | DP",
+        "ul": "BFS"
     },
     {
         "id": "2615",
@@ -19237,7 +20427,10 @@
         "title": "색종이 만들기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2630\">색종이 만들기 (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[13] Recursion | Backtrack",
+        "h3": "Recursion",
+        "ul": "Recursion"
     },
     {
         "id": "2676",
@@ -19294,7 +20487,10 @@
         "title": "나무 자르기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2805\">나무 자르기 (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "Binary | bisect | QSelect",
+        "ul": "Binary Search"
     },
     {
         "id": "2852",
@@ -19503,7 +20699,10 @@
         "title": "1",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/4375\">1 (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[7] Tricks",
+        "h3": "sys | copy ",
+        "ul": "sys"
     },
     {
         "id": "4452",
@@ -19576,7 +20775,10 @@
         "title": "키로거",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5397\">키로거 (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[4] Loop | Iterables",
+        "h3": "lists | 2D",
+        "ul": "Lists"
     },
     {
         "id": "5545",
@@ -19809,7 +21011,10 @@
         "title": "이항 쇼다운",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/6591\">이항 쇼다운 (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "! Counting | Comb | stat",
+        "ul": "Combination"
     },
     {
         "id": "6612",
@@ -20026,7 +21231,10 @@
         "title": "1, 2, 3 더하기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/9095\">1, 2, 3 더하기 (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Counting | Optimized path",
+        "ul": "Counting"
     },
     {
         "id": "9115",
@@ -20107,7 +21315,10 @@
         "title": "상근이의 여행",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/9372\">상근이의 여행 (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[8] Advanced Data structure",
+        "h3": "list | graph",
+        "ul": "Graph"
     },
     {
         "id": "9375",
@@ -20148,7 +21359,10 @@
         "title": "파도반 수열",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/9461\">파도반 수열 (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Game | optimization | Others",
+        "ul": "DP Others"
     },
     {
         "id": "9471",
@@ -20205,7 +21419,10 @@
         "title": "GCD 합",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/9613\">GCD 합 (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "prime | gcd, lcm",
+        "ul": "gcd, lcm"
     },
     {
         "id": "9657",
@@ -20214,7 +21431,10 @@
         "title": "돌 게임 3",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/9657\">돌 게임 3 (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Game | optimization | Others",
+        "ul": "game"
     },
     {
         "id": "9693",
@@ -20335,7 +21555,10 @@
         "title": "쇠막대기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10799\">쇠막대기 (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[8] Advanced Data structure",
+        "h3": "queue | stack | deque | heapq",
+        "ul": "stack"
     },
     {
         "id": "10857",
@@ -20416,7 +21639,10 @@
         "title": "세 개의 소수 문제",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11502\">세 개의 소수 문제 (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "prime | gcd, lcm",
+        "ul": "prime"
     },
     {
         "id": "11508",
@@ -20865,7 +22091,10 @@
         "title": "최소공배수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/13241\">최소공배수 (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "prime | gcd, lcm",
+        "ul": "gcd, lcm"
     },
     {
         "id": "13242",
@@ -21159,9 +22388,13 @@
         "id": "14791",
         "level": 8,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "Tidy Numbers",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/14791\">Tidy Numbers (8)</a>",
+        "p": "",
+        "h2": "[11] Greedy",
+        "h3": "sweeping | bruteforce",
+        "ul": "brute force"
     },
     {
         "id": "14889",
@@ -21362,7 +22595,10 @@
         "title": "N과 M (1)",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15649\">N과 M (1) (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[13] Recursion | Backtrack",
+        "h3": "Backtrack",
+        "ul": "Backtrack"
     },
     {
         "id": "15650",
@@ -21371,7 +22607,10 @@
         "title": "N과 M (2)",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15650\">N과 M (2) (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[13] Recursion | Backtrack",
+        "h3": "Backtrack",
+        "ul": "Backtrack"
     },
     {
         "id": "15651",
@@ -21380,7 +22619,10 @@
         "title": "N과 M (3)",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15651\">N과 M (3) (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[13] Recursion | Backtrack",
+        "h3": "Backtrack",
+        "ul": "Backtrack"
     },
     {
         "id": "15652",
@@ -21389,7 +22631,10 @@
         "title": "N과 M (4)",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15652\">N과 M (4) (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[13] Recursion | Backtrack",
+        "h3": "Backtrack",
+        "ul": "Backtrack"
     },
     {
         "id": "15654",
@@ -21398,7 +22643,10 @@
         "title": "N과 M (6)",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15654\">N과 M (6) (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[13] Recursion | Backtrack",
+        "h3": "Backtrack",
+        "ul": "Backtrack"
     },
     {
         "id": "15655",
@@ -21415,7 +22663,10 @@
         "title": "N과 M (7)",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15656\">N과 M (7) (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[13] Recursion | Backtrack",
+        "h3": "Backtrack",
+        "ul": "Backtrack"
     },
     {
         "id": "15657",
@@ -21424,7 +22675,10 @@
         "title": "N과 M (8)",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15657\">N과 M (8) (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[13] Recursion | Backtrack",
+        "h3": "Backtrack",
+        "ul": "Backtrack"
     },
     {
         "id": "15658",
@@ -21961,7 +23215,10 @@
         "title": "마인크래프트",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/18111\">마인크래프트 (8)</a>",
-        "python": []
+        "p": "",
+        "h2": "[11] Greedy",
+        "h3": "sweeping | bruteforce",
+        "ul": "brute force"
     },
     {
         "id": "18113",
@@ -22154,7 +23411,10 @@
         "title": "유기농 배추",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1012\">유기농 배추 (9)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "BFS | floodfill | DP",
+        "ul": "FloodFill"
     },
     {
         "id": "1058",
@@ -22171,7 +23431,10 @@
         "title": "행렬",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1080\">행렬 (9)</a>",
-        "python": []
+        "p": "",
+        "h2": "[11] Greedy",
+        "h3": "Optimize | others",
+        "ul": "others"
     },
     {
         "id": "1105",
@@ -22193,9 +23456,13 @@
         "id": "1138",
         "level": 9,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "한 줄로 서기",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/1138\">한 줄로 서기 (9)</a>",
+        "p": "",
+        "h2": "[11] Greedy",
+        "h3": "Optimize | others",
+        "ul": "others"
     },
     {
         "id": "1141",
@@ -22209,9 +23476,13 @@
         "id": "1182",
         "level": 9,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "부분수열의 합",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/1182\">부분수열의 합 (9)</a>",
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "! Counting | Comb | stat",
+        "ul": "Combination"
     },
     {
         "id": "1260",
@@ -22220,7 +23491,10 @@
         "title": "DFS와 BFS",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1260\">DFS와 BFS (9)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "BFS | floodfill | DP",
+        "ul": "BFS"
     },
     {
         "id": "1325",
@@ -22293,7 +23567,10 @@
         "title": "잃어버린 괄호",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1541\">잃어버린 괄호 (9)</a>",
-        "python": []
+        "p": "",
+        "h2": "[11] Greedy",
+        "h3": "Optimize | others",
+        "ul": "others"
     },
     {
         "id": "1548",
@@ -22366,7 +23643,10 @@
         "title": "종이의 개수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1780\">종이의 개수 (9)</a>",
-        "python": []
+        "p": "",
+        "h2": "[13] Recursion | Backtrack",
+        "h3": "Recursion",
+        "ul": "Recursion"
     },
     {
         "id": "1788",
@@ -22396,9 +23676,13 @@
         "id": "1890",
         "level": 9,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "점프",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/1890\">점프 (9)</a>",
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Counting | Optimized path",
+        "ul": "Counting"
     },
     {
         "id": "1911",
@@ -22415,7 +23699,10 @@
         "title": "연속합",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1912\">연속합 (9)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Game | optimization | Others",
+        "ul": "optimization"
     },
     {
         "id": "1914",
@@ -22432,7 +23719,10 @@
         "title": "소수 구하기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1929\">소수 구하기 (9)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "prime | gcd, lcm",
+        "ul": "prime"
     },
     {
         "id": "1931",
@@ -22441,7 +23731,10 @@
         "title": "회의실배정",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1931\">회의실배정 (9)</a>",
-        "python": []
+        "p": "",
+        "h2": "[11] Greedy",
+        "h3": "Optimize | others",
+        "ul": "BJ"
     },
     {
         "id": "1965",
@@ -22455,9 +23748,13 @@
         "id": "2004",
         "level": 9,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "조합 0의 개수",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/2004\">조합 0의 개수 (9)</a>",
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "! Counting | Comb | stat",
+        "ul": "Combination"
     },
     {
         "id": "2072",
@@ -22471,9 +23768,13 @@
         "id": "2110",
         "level": 9,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "공유기 설치",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/2110\">공유기 설치 (9)</a>",
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "Binary | bisect | QSelect",
+        "ul": "Binary Search"
     },
     {
         "id": "2118",
@@ -22495,9 +23796,13 @@
         "id": "2133",
         "level": 9,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "타일 채우기",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/2133\">타일 채우기 (9)</a>",
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Counting | Optimized path",
+        "ul": "Counting"
     },
     {
         "id": "2138",
@@ -22506,7 +23811,10 @@
         "title": "전구와 스위치",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2138\">전구와 스위치 (9)</a>",
-        "python": []
+        "p": "",
+        "h2": "[11] Greedy",
+        "h3": "Optimize | others",
+        "ul": "others"
     },
     {
         "id": "2148",
@@ -22611,7 +23919,10 @@
         "title": "부등호",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2529\">부등호 (9)</a>",
-        "python": []
+        "p": "",
+        "h2": "[13] Recursion | Backtrack",
+        "h3": "Backtrack",
+        "ul": "Backtrack"
     },
     {
         "id": "2641",
@@ -22625,9 +23936,13 @@
         "id": "2644",
         "level": 9,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "촌수계산",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/2644\">촌수계산 (9)</a>",
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "BFS | floodfill | DP",
+        "ul": "BFS"
     },
     {
         "id": "2705",
@@ -22908,7 +24223,10 @@
         "title": "베르트랑 공준",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/4948\">베르트랑 공준 (9)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "prime | gcd, lcm",
+        "ul": "prime"
     },
     {
         "id": "4963",
@@ -22917,7 +24235,10 @@
         "title": "섬의 개수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/4963\">섬의 개수 (9)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "DFS | DP",
+        "ul": "BFS "
     },
     {
         "id": "5035",
@@ -23174,7 +24495,10 @@
         "title": "로또",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/6603\">로또 (9)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "! Counting | Comb | stat",
+        "ul": "Combination"
     },
     {
         "id": "6714",
@@ -23596,9 +24920,13 @@
         "id": "10819",
         "level": 9,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "차이를 최대로",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/10819\">차이를 최대로 (9)</a>",
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "! Counting | Comb | stat",
+        "ul": "Combination"
     },
     {
         "id": "10856",
@@ -23628,9 +24956,13 @@
         "id": "10971",
         "level": 9,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "외판원 순회",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/10971\">외판원 순회 (9)</a>",
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "kmp | Knapsack | TSP",
+        "ul": "Traveling salesman"
     },
     {
         "id": "10997",
@@ -23647,15 +24979,22 @@
         "title": "가장 긴 증가하는 부분수열",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11053\">가장 긴 증가하는 부분수열 (9)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "Binary | bisect | QSelect",
+        "ul": "bisect"
     },
     {
         "id": "11055",
         "level": 9,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "가장 큰 증가 부분 수열",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/11055\">가장 큰 증가 부분 수열 (9)</a>",
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Game | optimization | Others",
+        "ul": "optimization"
     },
     {
         "id": "11060",
@@ -23664,7 +25003,10 @@
         "title": "점프 점프",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11060\">점프 점프 (9)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Counting | Optimized path",
+        "ul": "Optimized path"
     },
     {
         "id": "11082",
@@ -23689,7 +25031,10 @@
         "title": "최대 힙",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11279\">최대 힙 (9)</a>",
-        "python": []
+        "p": "",
+        "h2": "[8] Advanced Data structure",
+        "h3": "queue | stack | deque | heapq",
+        "ul": "heapq"
     },
     {
         "id": "11299",
@@ -23754,7 +25099,10 @@
         "title": "연결 요소의 개수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11724\">연결 요소의 개수 (9)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "DFS | DP",
+        "ul": "BFS "
     },
     {
         "id": "11725",
@@ -23763,7 +25111,10 @@
         "title": "트리의 부모 찾기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11725\">트리의 부모 찾기 (9)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "Tree | Trie",
+        "ul": "Tree"
     },
     {
         "id": "11729",
@@ -23772,7 +25123,10 @@
         "title": "하노이 탑 이동 순서",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11729\">하노이 탑 이동 순서 (9)</a>",
-        "python": []
+        "p": "",
+        "h2": "[13] Recursion | Backtrack",
+        "h3": "Recursion",
+        "ul": "Recursion"
     },
     {
         "id": "11867",
@@ -24421,7 +25775,10 @@
         "title": "N과 M (9)",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15663\">N과 M (9) (9)</a>",
-        "python": []
+        "p": "",
+        "h2": "[13] Recursion | Backtrack",
+        "h3": "Backtrack",
+        "ul": "Backtrack"
     },
     {
         "id": "15664",
@@ -24486,7 +25843,10 @@
         "title": "K번째 소수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15965\">K번째 소수 (9)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "prime | gcd, lcm",
+        "ul": "prime"
     },
     {
         "id": "15966",
@@ -24503,7 +25863,10 @@
         "title": "1, 2, 3 더하기 3",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15988\">1, 2, 3 더하기 3 (9)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Counting | Optimized path",
+        "ul": "Counting"
     },
     {
         "id": "16021",
@@ -25064,7 +26427,10 @@
         "title": "좌표 압축",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/18870\">좌표 압축 (9)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "19169",
@@ -25153,7 +26519,10 @@
         "title": "트리",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1068\">트리 (10)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "Tree | Trie",
+        "ul": "Tree"
     },
     {
         "id": "1074",
@@ -25162,7 +26531,10 @@
         "title": "Z",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1074\">Z (10)</a>",
-        "python": []
+        "p": "",
+        "h2": "[13] Recursion | Backtrack",
+        "h3": "Recursion",
+        "ul": "Recursion"
     },
     {
         "id": "1148",
@@ -25259,7 +26631,10 @@
         "title": "케빈 베이컨의 6단계 법칙",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1389\">케빈 베이컨의 6단계 법칙 (10)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "Dijkstra | Bellman | Floyd",
+        "ul": "Floyd"
     },
     {
         "id": "1451",
@@ -25324,7 +26699,10 @@
         "title": "곱셈",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1629\">곱셈 (10)</a>",
-        "python": []
+        "p": "",
+        "h2": "[13] Recursion | Backtrack",
+        "h3": "Recursion",
+        "ul": "Recursion"
     },
     {
         "id": "1640",
@@ -25381,7 +26759,10 @@
         "title": "숨바꼭질",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1697\">숨바꼭질 (10)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "BFS | floodfill | DP",
+        "ul": "BFS"
     },
     {
         "id": "1713",
@@ -25446,7 +26827,10 @@
         "title": "그림",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1926\">그림 (10)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "BFS | floodfill | DP",
+        "ul": "FloodFill"
     },
     {
         "id": "1927",
@@ -25455,7 +26839,10 @@
         "title": "최소 힙",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1927\">최소 힙 (10)</a>",
-        "python": []
+        "p": "",
+        "h2": "[8] Advanced Data structure",
+        "h3": "queue | stack | deque | heapq",
+        "ul": "heapq"
     },
     {
         "id": "1932",
@@ -25469,9 +26856,13 @@
         "id": "1946",
         "level": 10,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "신입 사원",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/1946\">신입 사원 (10)</a>",
+        "p": "",
+        "h2": "[11] Greedy",
+        "h3": "Two Pointer",
+        "ul": "Two Pointer"
     },
     {
         "id": "1953",
@@ -25496,7 +26887,10 @@
         "title": "트리 순회",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1991\">트리 순회 (10)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "Tree | Trie",
+        "ul": "Tree"
     },
     {
         "id": "1992",
@@ -25593,7 +26987,10 @@
         "title": "미로 탐색",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2178\">미로 탐색 (10)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "BFS | floodfill | DP",
+        "ul": "BFS"
     },
     {
         "id": "2179",
@@ -25650,7 +27047,10 @@
         "title": "동전 1",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2293\">동전 1 (10)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Counting | Optimized path",
+        "ul": "Counting"
     },
     {
         "id": "2294",
@@ -26204,7 +27604,10 @@
         "title": "결혼식",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5567\">결혼식 (10)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "BFS | floodfill | DP",
+        "ul": "BFS"
     },
     {
         "id": "5590",
@@ -26485,7 +27888,10 @@
         "title": "HTML",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/6581\">HTML (10)</a>",
-        "python": []
+        "p": "",
+        "h2": "[7] Tricks",
+        "h3": "sys | copy ",
+        "ul": "sys"
     },
     {
         "id": "6588",
@@ -26566,7 +27972,10 @@
         "title": "토마토",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/7576\">토마토 (10)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "BFS | floodfill | DP",
+        "ul": "BFS"
     },
     {
         "id": "7639",
@@ -26687,7 +28096,10 @@
         "title": "골드바흐의 추측",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/9020\">골드바흐의 추측 (10)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "prime | gcd, lcm",
+        "ul": "prime"
     },
     {
         "id": "9057",
@@ -26832,7 +28244,10 @@
         "title": "돌 게임 4",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/9658\">돌 게임 4 (10)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Game | optimization | Others",
+        "ul": "game"
     },
     {
         "id": "9734",
@@ -27041,7 +28456,10 @@
         "title": "a^b",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10827\">a^b (10)</a>",
-        "python": []
+        "p": "",
+        "h2": "[7] Tricks",
+        "h3": "Decimal | random | re",
+        "ul": "Decimal"
     },
     {
         "id": "10835",
@@ -27082,7 +28500,10 @@
         "title": "동전 O",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11047\">동전 O (10)</a>",
-        "python": []
+        "p": "",
+        "h2": "[11] Greedy",
+        "h3": "Optimize | others",
+        "ul": "BJ"
     },
     {
         "id": "11048",
@@ -27091,7 +28512,10 @@
         "title": "이동하기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11048\">이동하기 (10)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Counting | Optimized path",
+        "ul": "Optimized path"
     },
     {
         "id": "11051",
@@ -27116,7 +28540,10 @@
         "title": "오르막 수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11057\">오르막 수 (10)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Counting | Optimized path",
+        "ul": "Counting"
     },
     {
         "id": "11058",
@@ -27205,7 +28632,10 @@
         "title": "경로 찾기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11403\">경로 찾기 (10)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "Dijkstra | Bellman | Floyd",
+        "ul": "Floyd"
     },
     {
         "id": "11423",
@@ -27222,7 +28652,10 @@
         "title": "풍선 맞추기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11509\">풍선 맞추기 (10)</a>",
-        "python": []
+        "p": "",
+        "h2": "[11] Greedy",
+        "h3": "Optimize | others",
+        "ul": "others"
     },
     {
         "id": "11565",
@@ -27343,7 +28776,10 @@
         "title": "1, 2, 3 더하기 2",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/12101\">1, 2, 3 더하기 2 (10)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Counting | Optimized path",
+        "ul": "Counting"
     },
     {
         "id": "12151",
@@ -27821,9 +29257,13 @@
         "id": "14888",
         "level": 10,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "연산자 끼워넣기",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/14888\">연산자 끼워넣기 (10)</a>",
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "! Counting | Comb | stat",
+        "ul": "Combination"
     },
     {
         "id": "14891",
@@ -28088,7 +29528,10 @@
         "title": "1, 2, 3 더하기 4",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/15989\">1, 2, 3 더하기 4 (10)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Counting | Optimized path",
+        "ul": "Counting"
     },
     {
         "id": "15991",
@@ -28849,7 +30292,10 @@
         "title": "리모컨",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1107\">리모컨 (11)</a>",
-        "python": []
+        "p": "",
+        "h2": "[11] Greedy",
+        "h3": "sweeping | bruteforce",
+        "ul": "brute force"
     },
     {
         "id": "1117",
@@ -29114,7 +30560,10 @@
         "title": "최단경로",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1753\">최단경로 (11)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "Dijkstra | Bellman | Floyd",
+        "ul": "Dijkstra"
     },
     {
         "id": "1756",
@@ -29139,7 +30588,10 @@
         "title": "암호 만들기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1759\">암호 만들기 (11)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "! Counting | Comb | stat",
+        "ul": "Combination"
     },
     {
         "id": "1796",
@@ -29188,7 +30640,10 @@
         "title": "최소비용 구하기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1916\">최소비용 구하기 (11)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "Dijkstra | Bellman | Floyd",
+        "ul": "Dijkstra"
     },
     {
         "id": "1963",
@@ -29306,9 +30761,13 @@
         "id": "2225",
         "level": 11,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "합분해",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/2225\">합분해 (11)</a>",
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Counting | Optimized path",
+        "ul": "Counting"
     },
     {
         "id": "2226",
@@ -29461,7 +30920,10 @@
         "title": "치즈",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2636\">치즈 (11)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "BFS | floodfill | DP",
+        "ul": "BFS"
     },
     {
         "id": "2651",
@@ -30126,7 +31588,10 @@
         "title": "이중 우선순위 큐",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/7662\">이중 우선순위 큐 (11)</a>",
-        "python": []
+        "p": "",
+        "h2": "[8] Advanced Data structure",
+        "h3": "queue | stack | deque | heapq",
+        "ul": "heapq"
     },
     {
         "id": "7669",
@@ -30287,7 +31752,10 @@
         "title": "LCS",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/9251\">LCS (11)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Game | optimization | Others",
+        "ul": "optimization"
     },
     {
         "id": "9252",
@@ -30296,7 +31764,10 @@
         "title": "LCS 2",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/9252\">LCS 2 (11)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Game | optimization | Others",
+        "ul": "optimization"
     },
     {
         "id": "9505",
@@ -30321,7 +31792,10 @@
         "title": "돌 게임 5",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/9659\">돌 게임 5 (11)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Game | optimization | Others",
+        "ul": "game"
     },
     {
         "id": "9660",
@@ -30330,16 +31804,22 @@
         "title": "돌 게임 6",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/9660\">돌 게임 6 (11)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Game | optimization | Others",
+        "ul": "game"
     },
     {
         "id": "9663",
         "level": 11,
         "chapter": 13,
-        "title": " N-Queen",
+        "title": " N-Queen",
         "type": "BJ",
-        "link": "<a href=\"http://acmicpc.net/problem/9663\"> N-Queen (11)</a>",
-        "python": []
+        "link": "<a href=\"http://acmicpc.net/problem/9663\"> N-Queen (11)</a>",
+        "p": "",
+        "h2": "[13] Recursion | Backtrack",
+        "h3": "Backtrack",
+        "ul": "Backtrack"
     },
     {
         "id": "9665",
@@ -30372,7 +31852,10 @@
         "title": "적록색약",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/10026\">적록색약 (11)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "BFS | floodfill | DP",
+        "ul": "BFS"
     },
     {
         "id": "10035",
@@ -30693,7 +32176,10 @@
         "title": "CCW",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11758\">CCW (11)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Geometry | Trigonometry",
+        "ul": "Geometry"
     },
     {
         "id": "11830",
@@ -30950,7 +32436,10 @@
         "title": "평범한 배낭",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/12865\">평범한 배낭 (11)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "kmp | Knapsack | TSP",
+        "ul": "Knapsack"
     },
     {
         "id": "12878",
@@ -31151,7 +32640,10 @@
         "title": "숨바꼭질 3",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/13549\">숨바꼭질 3 (11)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "BFS | floodfill | DP",
+        "ul": "BFS"
     },
     {
         "id": "13600",
@@ -31368,7 +32860,10 @@
         "title": "연구소",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/14502\">연구소 (11)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "BFS | floodfill | DP",
+        "ul": "BFS"
     },
     {
         "id": "14503",
@@ -32137,7 +33632,10 @@
         "title": "연구소 2",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/17141\">연구소 2 (11)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "BFS | floodfill | DP",
+        "ul": "BFS"
     },
     {
         "id": "17144",
@@ -32690,7 +34188,10 @@
         "title": "최소 스패닝 트리",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1197\">최소 스패닝 트리 (12)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "SCC | disjoint_set",
+        "ul": "Disjoint set"
     },
     {
         "id": "1229",
@@ -32768,9 +34269,13 @@
         "id": "1339",
         "level": 12,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "단어 수학",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/1339\">단어 수학 (12)</a>",
+        "p": "",
+        "h2": "[11] Greedy",
+        "h3": "Optimize | others",
+        "ul": "others"
     },
     {
         "id": "1344",
@@ -32819,7 +34324,10 @@
         "title": "특정한 최단 경로",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1504\">특정한 최단 경로 (12)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "Dijkstra | Bellman | Floyd",
+        "ul": "Dijkstra"
     },
     {
         "id": "1520",
@@ -32828,7 +34336,10 @@
         "title": "내리막 길",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1520\">내리막 길 (12)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "DFS | DP",
+        "ul": "dp"
     },
     {
         "id": "1528",
@@ -32933,7 +34444,10 @@
         "title": "집합의 표현",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1717\">집합의 표현 (12)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "SCC | disjoint_set",
+        "ul": "Disjoint set"
     },
     {
         "id": "1719",
@@ -32942,7 +34456,10 @@
         "title": "택배",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1719\">택배 (12)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "Dijkstra | Bellman | Floyd",
+        "ul": "Dijkstra"
     },
     {
         "id": "1726",
@@ -33039,7 +34556,10 @@
         "title": "네트워크 연결",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1922\">네트워크 연결 (12)</a>",
-        "python": []
+        "p": "",
+        "h2": "[8] Advanced Data structure",
+        "h3": "queue | stack | deque | heapq",
+        "ul": "heapq"
     },
     {
         "id": "1930",
@@ -33056,7 +34576,10 @@
         "title": "중량제한",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1939\">중량제한 (12)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "BFS | floodfill | DP",
+        "ul": "BFS"
     },
     {
         "id": "1943",
@@ -33089,7 +34612,10 @@
         "title": "트리의 지름",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1967\">트리의 지름 (12)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "Tree | Trie",
+        "ul": "Tree"
     },
     {
         "id": "1976",
@@ -33106,7 +34632,10 @@
         "title": "알파벳",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1987\">알파벳 (12)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "BFS | floodfill | DP",
+        "ul": "BFS"
     },
     {
         "id": "1988",
@@ -33259,7 +34788,10 @@
         "title": "벽 부수고 이동하기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2206\">벽 부수고 이동하기 (12)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "BFS | floodfill | DP",
+        "ul": "DP"
     },
     {
         "id": "2218",
@@ -33460,7 +34992,10 @@
         "title": "스도쿠",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2580\">스도쿠 (12)</a>",
-        "python": []
+        "p": "",
+        "h2": "[13] Recursion | Backtrack",
+        "h3": "Backtrack",
+        "ul": "Backtrack"
     },
     {
         "id": "2590",
@@ -33565,7 +35100,10 @@
         "title": "미로만들기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2665\">미로만들기 (12)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "Dijkstra | Bellman | Floyd",
+        "ul": "Dijkstra"
     },
     {
         "id": "2685",
@@ -33966,7 +35504,10 @@
         "title": "전화번호 목록",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/5052\">전화번호 목록 (12)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "sort",
+        "ul": "sort"
     },
     {
         "id": "5060",
@@ -34511,7 +36052,10 @@
         "title": "텀 프로잭트",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/9466\">텀 프로잭트 (12)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "DFS | DP",
+        "ul": "BFS "
     },
     {
         "id": "9489",
@@ -34808,7 +36352,10 @@
         "title": "플로이드",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11404\">플로이드 (12)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "Dijkstra | Bellman | Floyd",
+        "ul": "Floyd"
     },
     {
         "id": "11548",
@@ -35489,7 +37036,10 @@
         "title": "숨바꼭질 4",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/13913\">숨바꼭질 4 (12)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "BFS | floodfill | DP",
+        "ul": "BFS"
     },
     {
         "id": "14002",
@@ -36298,7 +37848,10 @@
         "title": "연구소 3",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/17142\">연구소 3 (12)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "BFS | floodfill | DP",
+        "ul": "BFS"
     },
     {
         "id": "17162",
@@ -36579,7 +38132,10 @@
         "title": "단어 암기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/18119\">단어 암기 (12)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Bit | Operation",
+        "ul": "Operation"
     },
     {
         "id": "18153",
@@ -36780,7 +38336,10 @@
         "title": "ACM Craft",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1005\">ACM Craft (13)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "Topological | articulation",
+        "ul": "Topological sort"
     },
     {
         "id": "1030",
@@ -36845,7 +38404,10 @@
         "title": "트리의 지름",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1167\">트리의 지름 (13)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "Tree | Trie",
+        "ul": "Tree"
     },
     {
         "id": "1238",
@@ -36974,7 +38536,10 @@
         "title": "게임 개발",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1516\">게임 개발 (13)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "Topological | articulation",
+        "ul": "Topological sort"
     },
     {
         "id": "1519",
@@ -37023,7 +38588,10 @@
         "title": "소수의 연속합",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1644\">소수의 연속합 (13)</a>",
-        "python": []
+        "p": "",
+        "h2": "[11] Greedy",
+        "h3": "Two Pointer",
+        "ul": "Two Pointer"
     },
     {
         "id": "1689",
@@ -37088,7 +38656,10 @@
         "title": "부분합",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1806\">부분합 (13)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Game | optimization | Others",
+        "ul": "optimization"
     },
     {
         "id": "1823",
@@ -37161,7 +38732,10 @@
         "title": "선물 전달",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1947\">선물 전달 (13)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Game | optimization | Others",
+        "ul": "DP Others"
     },
     {
         "id": "1958",
@@ -37170,7 +38744,10 @@
         "title": "LCS 3",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1958\">LCS 3 (13)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Game | optimization | Others",
+        "ul": "optimization"
     },
     {
         "id": "1983",
@@ -37256,9 +38833,13 @@
         "id": "2146",
         "level": 13,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "다리 만들기",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/2146\">다리 만들기 (13)</a>",
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "BFS | floodfill | DP",
+        "ul": "FloodFill"
     },
     {
         "id": "2176",
@@ -37299,7 +38880,10 @@
         "title": "별 찍기 - 10",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2247\">별 찍기 - 10 (13)</a>",
-        "python": []
+        "p": "",
+        "h2": "[13] Recursion | Backtrack",
+        "h3": "Recursion",
+        "ul": "Recursion"
     },
     {
         "id": "2263",
@@ -37484,7 +39068,10 @@
         "title": "중앙값 구하기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2696\">중앙값 구하기 (13)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "Binary | bisect | QSelect",
+        "ul": "bisect"
     },
     {
         "id": "2710",
@@ -37709,7 +39296,10 @@
         "title": "오름세",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/3745\">오름세 (13)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "Binary | bisect | QSelect",
+        "ul": "bisect"
     },
     {
         "id": "3760",
@@ -38590,7 +40180,10 @@
         "title": "행렬 곱셈 순서",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11049\">행렬 곱셈 순서 (13)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Game | optimization | Others",
+        "ul": "optimization"
     },
     {
         "id": "11054",
@@ -38599,7 +40192,10 @@
         "title": "가장 긴 바이토닉 부분 수열",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11054\">가장 긴 바이토닉 부분 수열 (13)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Game | optimization | Others",
+        "ul": "optimization"
     },
     {
         "id": "11062",
@@ -38656,7 +40252,10 @@
         "title": "LCA",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11437\">LCA (13)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Sparse Table",
+        "ul": "Sparse Table"
     },
     {
         "id": "11444",
@@ -39257,7 +40856,10 @@
         "title": "중복 제거",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/13701\">중복 제거 (13)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Bit | Operation",
+        "ul": "Bit"
     },
     {
         "id": "13711",
@@ -39282,7 +40884,10 @@
         "title": "과제",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/13904\">과제 (13)</a>",
-        "python": []
+        "p": "",
+        "h2": "[11] Greedy",
+        "h3": "Optimize | others",
+        "ul": "BJ"
     },
     {
         "id": "13911",
@@ -40195,7 +41800,10 @@
         "title": "선분 교차 1",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/17386\">선분 교차 1 (13)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Geometry | Trigonometry",
+        "ul": "Geometry"
     },
     {
         "id": "17387",
@@ -40204,7 +41812,10 @@
         "title": "선분 교차 2",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/17387\">선분 교차 2 (13)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Geometry | Trigonometry",
+        "ul": "Geometry"
     },
     {
         "id": "17436",
@@ -40906,9 +42517,13 @@
         "id": "1701",
         "level": 14,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "Cubeditor",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/1701\">Cubeditor (14)</a>",
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "kmp | Knapsack | TSP",
+        "ul": "kmp"
     },
     {
         "id": "1702",
@@ -41157,7 +42772,10 @@
         "title": "줄 세우기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2252\">줄 세우기 (14)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "Topological | articulation",
+        "ul": "Topological sort"
     },
     {
         "id": "2264",
@@ -41262,7 +42880,10 @@
         "title": "사회망 서비스(SNS)",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2533\">사회망 서비스(SNS) (14)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "Tree | Trie",
+        "ul": "Tree"
     },
     {
         "id": "2585",
@@ -41372,9 +42993,13 @@
         "id": "2749",
         "level": 14,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "피보나치 수 3",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/2749\">피보나치 수 3 (14)</a>",
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Exponent | Logarithm",
+        "ul": "Exponent"
     },
     {
         "id": "2759",
@@ -41679,7 +43304,10 @@
         "title": "친구 네트워크",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/4195\">친구 네트워크 (14)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "SCC | disjoint_set",
+        "ul": "Disjoint set"
     },
     {
         "id": "4200",
@@ -42360,7 +43988,10 @@
         "title": "돌 게임 7",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/9661\">돌 게임 7 (14)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Game | optimization | Others",
+        "ul": "game"
     },
     {
         "id": "9686",
@@ -42857,7 +44488,10 @@
         "title": "가장 긴 증가하는 부분수열 2",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/12015\">가장 긴 증가하는 부분수열 2 (14)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "Binary | bisect | QSelect",
+        "ul": "bisect"
     },
     {
         "id": "12024",
@@ -42874,7 +44508,10 @@
         "title": "2048 (Easy)",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/12100\">2048 (Easy) (14)</a>",
-        "python": []
+        "p": "",
+        "h2": "[13] Recursion | Backtrack",
+        "h3": "Recursion",
+        "ul": "Recursion"
     },
     {
         "id": "12119",
@@ -42963,7 +44600,10 @@
         "title": "가장 긴 증가하는 부분수열 3",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/12738\">가장 긴 증가하는 부분수열 3 (14)</a>",
-        "python": []
+        "p": "",
+        "h2": "[6] Sort",
+        "h3": "Binary | bisect | QSelect",
+        "ul": "bisect"
     },
     {
         "id": "12763",
@@ -44564,7 +46204,10 @@
         "title": "제곱 ㄴㄴ 수",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1016\">제곱 ㄴㄴ 수 (15)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "prime | gcd, lcm",
+        "ul": "prime"
     },
     {
         "id": "1019",
@@ -45085,7 +46728,10 @@
         "title": "볼록 껍질",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1708\">볼록 껍질 (15)</a>",
-        "python": []
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "Geometry | Trigonometry",
+        "ul": "Geometry"
     },
     {
         "id": "1723",
@@ -45270,7 +46916,10 @@
         "title": "외판원 순회",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2098\">외판원 순회 (15)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "kmp | Knapsack | TSP",
+        "ul": "Traveling salesman"
     },
     {
         "id": "2104",
@@ -46439,7 +48088,10 @@
         "title": "Counting Inversion",
         "type": "BJE",
         "link": "<a href=\"http://acmicpc.net/problem/10090\">Counting Inversion (15)</a>",
-        "python": []
+        "p": "",
+        "h2": "[8] Advanced Data structure",
+        "h3": "Tree | Segment | BIT | RB",
+        "ul": "Segment Tree"
     },
     {
         "id": "10215",
@@ -48152,7 +49804,10 @@
         "title": "합성함수와 쿼리",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/17435\">합성함수와 쿼리 (15)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Sparse Table",
+        "ul": "Sparse Table"
     },
     {
         "id": "17501",
@@ -48201,7 +49856,10 @@
         "title": "쇼핑몰",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/17612\">쇼핑몰 (15)</a>",
-        "python": []
+        "p": "",
+        "h2": "[8] Advanced Data structure",
+        "h3": "queue | stack | deque | heapq",
+        "ul": "heapq"
     },
     {
         "id": "17835",
@@ -48866,7 +50524,10 @@
         "title": "히스토그램",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1725\">히스토그램 (16)</a>",
-        "python": []
+        "p": "",
+        "h2": "[8] Advanced Data structure",
+        "h3": "queue | stack | deque | heapq",
+        "ul": "stack"
     },
     {
         "id": "1728",
@@ -49011,7 +50672,10 @@
         "title": "구간 합 구하기",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2042\">구간 합 구하기 (16)</a>",
-        "python": []
+        "p": "",
+        "h2": "[8] Advanced Data structure",
+        "h3": "Tree | Segment | BIT | RB",
+        "ul": "Segment Tree"
     },
     {
         "id": "2069",
@@ -49076,7 +50740,10 @@
         "title": "Strongly Connected Component",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2150\">Strongly Connected Component (16)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "SCC | disjoint_set",
+        "ul": "Disjoint set"
     },
     {
         "id": "2172",
@@ -49149,7 +50816,10 @@
         "title": "최솟값과 최댓값",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2357\">최솟값과 최댓값 (16)</a>",
-        "python": []
+        "p": "",
+        "h2": "[8] Advanced Data structure",
+        "h3": "Tree | Segment | BIT | RB",
+        "ul": "Segment Tree"
     },
     {
         "id": "2369",
@@ -49926,7 +51596,10 @@
         "title": "히스토그램에서 가장 큰 직사각형",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/6549\">히스토그램에서 가장 큰 직사각형 (16)</a>",
-        "python": []
+        "p": "",
+        "h2": "[8] Advanced Data structure",
+        "h3": "queue | stack | deque | heapq",
+        "ul": "stack"
     },
     {
         "id": "6567",
@@ -50607,7 +52280,10 @@
         "title": "LCA2",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11438\">LCA2 (16)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Sparse Table",
+        "ul": "Sparse Table"
     },
     {
         "id": "11447",
@@ -52984,7 +54660,10 @@
         "title": "축사 배정",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/2188\">축사 배정 (17)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "Flow Network | Targan",
+        "ul": "Flow Network"
     },
     {
         "id": "2191",
@@ -54505,7 +56184,10 @@
         "title": "열혈강호",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/11375\">열혈강호 (17)</a>",
-        "python": []
+        "p": "",
+        "h2": "[14] Graph",
+        "h3": "Flow Network | Targan",
+        "ul": "Flow Network"
     },
     {
         "id": "11376",
@@ -56666,7 +58348,10 @@
         "title": "스위치",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1395\">스위치 (18)</a>",
-        "python": []
+        "p": "",
+        "h2": "[8] Advanced Data structure",
+        "h3": "Tree | Segment | BIT | RB",
+        "ul": "Segment Tree"
     },
     {
         "id": "1412",
@@ -60699,7 +62384,10 @@
         "title": "같은 탑",
         "type": "BJ",
         "link": "<a href=\"http://acmicpc.net/problem/1126\">같은 탑 (19)</a>",
-        "python": []
+        "p": "",
+        "h2": "[12] DP ",
+        "h3": "Game | optimization | Others",
+        "ul": "DP Others"
     },
     {
         "id": "1142",
@@ -68945,9 +70633,13 @@
         "id": "4149",
         "level": 21,
         "chapter": -1,
-        "title": "",
-        "type": "",
-        "link": ""
+        "title": "큰 수 소인수분해",
+        "type": "BJ",
+        "link": "<a href=\"http://acmicpc.net/problem/4149\">큰 수 소인수분해 (21)</a>",
+        "p": "",
+        "h2": "[10] Math",
+        "h3": "prime | gcd, lcm",
+        "ul": "gcd, lcm"
     },
     {
         "id": "4206",
