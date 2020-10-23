@@ -16,6 +16,10 @@ def index():
         return redirect(url_for('admin'))
     else:
         return redirect(url_for('main'))
+    
+@app.route("/machine_learning")
+def machine_learning():
+    return render_template("machine_learning.html")
 
 @app.route("/admin", methods=["POST", "GET"])
 def admin():

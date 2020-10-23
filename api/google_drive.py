@@ -29,8 +29,13 @@ def update_page(file_id, file_name):
         status, done = downloader.next_chunk()
     fh.seek(0)
     with open(f'{file_name}.html', 'wb') as f:
+        f.write(b'{% extends "base.html" %}\n')
+        f.write(b'{% block body %}\n')
         f.write(fh.read())
+        f.write(b'\n{% endblock body %}')
         f.close()
 
 if __name__ == '__main__':
     update_page('1B8J_rQtCihzPVSN5wOf7SgEOQRlJFs5Rsf3wFH9_hwM', 'teaching_teacher')
+    update_page('198UELcFM1OojGDVhEl5hk1vRXesDCa03vMldvA6HHGQ', 'machine_learning')
+    update_page('1xgPgq4xDpvCS8Y4rkIYf2Gm_xXr0pg7-aEysidfR3-I', 'terminal')

@@ -6,6 +6,8 @@ import fire
 import json
 import re
 import pathlib
+import unicodedata
+from bs4 import BeautifulSoup
 from .google_drive import update_page
 from collections import defaultdict
 from selenium import webdriver
@@ -16,7 +18,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 DATA_PATH = pathlib.Path().absolute() / 'data'
 
-def get_problems(*, to_html=None, min_level = None, max_level= None, chapter = None, student = None):
+def get_problems(*, original=None, to_html=None, min_level = None, max_level= None, chapter = None, student = None):
     with open(f"{DATA_PATH}/problems.json", 'r') as f:
         problems = json.load(f)
     if chapter:
@@ -26,8 +28,27 @@ def get_problems(*, to_html=None, min_level = None, max_level= None, chapter = N
     if max_level:
         problems = list(filter(lambda problem: problem['level'] <= max_level, problems))
     if student:
-        problems = list(filter(lambda problem: problem in student['solved'], problems))
-    if to_html:
+        problems = list(filter(lambda problem: problem not in student['solved'], problems))
+    
+    if original:
+        bs = BeautifulSoup(open("teaching_teacher.html", 'r'), "html.parser")
+
+        problems = []
+        for a_question in bs.find_all("a", href=re.compile('.*acmicpc.*')):
+            p_question = a_question.find_parent('p')
+            if not p_question:
+                continue
+            id_match = re.match("BJ_(\d+)", unicodedata.normalize('NFKD', p_question.text))
+            if not id_match:
+                continue
+
+            print(id_match.group(1))
+            for p_answer in p_question.next_siblings:
+                span_answer = p_answer.find("span")
+                if "ff000" not in span_answer.attrs.get("style"):
+                    break
+                # if span_answer.decompose()
+    elif to_html:
         html = ""
         for chapter in range(1, 11):
             html += f"<h1>{chapter}</h1>"
@@ -38,7 +59,8 @@ def get_problems(*, to_html=None, min_level = None, max_level= None, chapter = N
                 if 'python' in problem:
                     html += '<br>'.join(problem["python"])
         return html
-    return problems
+    else:
+        return problems
 
 def update_problems(*, update_page = None, update_level = None):
     if update_level:
